@@ -33,20 +33,12 @@ file = "config/alltheleaks.json"
 hash = "3693f934f0a66e8f6653dcbfbd7cf66a92d22f857047507d552e5ea6a1f5cf99"
 
 [[files]]
-file = "config/automessage.toml"
-hash = "dd0bec65ebd6b3c5494b6464168c6a72f647be15e082618229f3349afe214874"
-
-[[files]]
 file = "config/badoptimizations.txt"
 hash = "9f56bd826fea6a8c6d68db34b09218e9c66154b82854150f954ddf56ec80f439"
 
 [[files]]
 file = "config/balm-client.toml"
 hash = "9923b77b07293c6ae5363fde993daa3597423ded51756528d2830c01a5f716ea"
-
-[[files]]
-file = "config/balm-common-1.toml.bak"
-hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/balm-common.toml"
@@ -59,14 +51,6 @@ hash = "1a8d0c828599473af0f926c1660a8a58dd2b1122acf034a7aac489cb88317ab1"
 [[files]]
 file = "config/betterfpsdist.json"
 hash = "7410aa05bb28180a3d5389fe955affffa7e7842e330385d042eb78e7a73db017"
-
-[[files]]
-file = "config/bhmenu-client-1.toml.bak"
-hash = "a02d16b459a0dfdc58fa4c2db055ad6f3e0ceb3b1fc6673e2dcdcb3422cdd936"
-
-[[files]]
-file = "config/bhmenu-client.toml"
-hash = "f7418648bb1cb9b81da412f3b855517880942dd50f44eafe977d2b4d997da136"
 
 [[files]]
 file = "config/catalogue.properties"
@@ -127,138 +111,6 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "6a1c0caa844226968f208d60d42ecc8056f7ac1ea809bb481eb975d2c2f499c6"
-
-[[files]]
-file = "config/fancymenu/assets/bg.png"
-hash = "f3fbc23cf4cdbeb7a7f2e595b22ef59cf40ad97c3bd467ba033e7c734bea077f"
-
-[[files]]
-file = "config/fancymenu/assets/mods.png"
-hash = "af9ec154765fa99a3eb05a8e99c7f9bb4e14cadcfbef7c7ad38604e02007eefd"
-
-[[files]]
-file = "config/fancymenu/assets/modshov.png"
-hash = "ecc9d1b13a988c8f329b508bbc3f64c03b0a6ab5e4e80fed208a754e92b6f1d5"
-
-[[files]]
-file = "config/fancymenu/assets/multiplayer.png"
-hash = "ae618fc1938ff2e9fdde85a446bfeae7a531a3b17a0cd84e687c59945515af9b"
-
-[[files]]
-file = "config/fancymenu/assets/multiplayerhov.png"
-hash = "7d79fa2e271c487f2ff2ac4f512077fe1dcb8552f5ab2743c318f278cbad07b2"
-
-[[files]]
-file = "config/fancymenu/assets/options.png"
-hash = "541006c37ba89034d25cc6858fed8da74a861196cd1a1ffafdd8c6af4ecd7d5a"
-
-[[files]]
-file = "config/fancymenu/assets/optionshov.png"
-hash = "79e8a132366cc1c7ffe8532645961da318e3c0cc24282831cf988c153155b244"
-
-[[files]]
-file = "config/fancymenu/assets/quitgame.png"
-hash = "f3110f7588a4d2cebe209353c1a3c25974f0a525ca3be2ec33aec04fbaa8bfc3"
-
-[[files]]
-file = "config/fancymenu/assets/quitgamehov.png"
-hash = "1ccef13c2861bc6478574c81e40c7c9f74a0690318b46321335cf59d62b91b7f"
-
-[[files]]
-file = "config/fancymenu/assets/rentaserver.png"
-hash = "6e295bba1af66013359c7824198828836a58ee683f87a9a387b2cfe18a41281c"
-
-[[files]]
-file = "config/fancymenu/assets/rentaserverhov.png"
-hash = "1917ceca64d744dd772a6b6de6b08e1b7789ae53106c521b2504edc39b9402aa"
-
-[[files]]
-file = "config/fancymenu/assets/sidepanel.png"
-hash = "628b2a2c893a8a47da708f463b96ecd04230ddb0bf0373285014a1906bc6b277"
-
-[[files]]
-file = "config/fancymenu/assets/singleplayer.png"
-hash = "e1444a523667c604e226e3abcb20f5a9f391816b313db85b9e90c7385af8a753"
-
-[[files]]
-file = "config/fancymenu/assets/singleplayerhov.png"
-hash = "1e56ecc4cbe9496bab774417a3b85d75d7173a744ab2cdd2d2f03911bf2b088d"
-
-[[files]]
-file = "config/fancymenu/assets/title.png"
-hash = "3c43fd4006ee79257e48b01712f730779ab8c094e1930411fa9be83ccfffaba4"
-
-[[files]]
-file = "config/fancymenu/config.txt"
-hash = "107549fef0e1568a24239c061730ca4deec9b5040a01d3bb27baf6b4a5f03493"
-
-[[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "78f7524dbb586afde45bd8b0b1e4d6847cecd874d2314195c73473f6c0ef5f96"
-
-[[files]]
-file = "config/fancymenu/customization/morefps.txt"
-hash = "3623c0a117df5074744be47486625bb1f2577f329de210de37f2b48953cbdd3f"
-
-[[files]]
-file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
-
-[[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
-file = "config/fancymenu/locals/de_de.local"
-hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
-
-[[files]]
-file = "config/fancymenu/locals/en_us.local"
-hash = "cef0b6b4ed124cb2e5f0f19de2bd86cc59e6f7426a58d6d74bbd3554727553d4"
-
-[[files]]
-file = "config/fancymenu/locals/pl_pl.local"
-hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
-
-[[files]]
-file = "config/fancymenu/locals/pt_br.local"
-hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
-
-[[files]]
-file = "config/fancymenu/locals/ru_ru.local"
-hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
-
-[[files]]
-file = "config/fancymenu/locals/uk_ua.local"
-hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
-
-[[files]]
-file = "config/fancymenu/locals/zh_cn.local"
-hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
-
-[[files]]
-file = "config/fancymenu/menu_identifiers.db"
-hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "3b90fba8f7e7000143befd3a8ee7266bc54fcdb83bce33d93883d46660769520"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/fastpaintings-common.toml"
@@ -405,17 +257,8 @@ file = "config/time_on_display.toml"
 hash = "3ab3a842d6ee3cf8f2e5a5975f46a01db553ca6111249ccea96206ea0cd6dabf"
 
 [[files]]
-file = "config/toastcontrol-client-1.toml.bak"
-hash = "ff3f64666b3457189fb3e7ba44d7a05f61e069b0fec41d2ad2ade63fbbd73a7d"
-
-[[files]]
 file = "config/toastcontrol-client.toml"
 hash = "633a90a36cf0947b199e9a6737c19982d8130820a18b69aa0d16240b584ec001"
-
-[[files]]
-file = "makeup-ultra-fast-shader.pw.toml"
-hash = "4a538930e2c001ee1f0627f1a22608b976d8eba8814a0ca1d323865c15bca0e8"
-metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -438,16 +281,6 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
-file = "mods/automessage.pw.toml"
-hash = "a4404c2b410402800013fe92c271ef0cebebd112a597ad08d1534f18acb1a772"
-metafile = true
-
-[[files]]
-file = "mods/awesome-3d-mace.pw.toml"
-hash = "40c0230e87faef3fbd930109ec1893e140406a7570749d2e0768af990ff2e785"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "015ebf9ad50e25c5506e4ec480812104b6b2233495d256b2de4ccb16dd164d77"
 metafile = true
@@ -465,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
-metafile = true
-
-[[files]]
-file = "mods/bisecthosting-server-integration-menu-neoforge.pw.toml"
-hash = "31f4b80425c575bc7fa47fa9f46fb11b65a53150ce13dbdacb0982fdfa0aacb8"
 metafile = true
 
 [[files]]
@@ -528,11 +356,6 @@ hash = "fda047f89e77dc385b05ccbe5c4ec6f262fa27ea16f5d6dbcefafb5c5934661d"
 metafile = true
 
 [[files]]
-file = "mods/elemental-maces.pw.toml"
-hash = "d54f66738d04e263845b2cb9f2839acb3a650e13b5cd211c4147953700c8292e"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "7703a93c0d884145f7d148e33e968d5b17680477d4e088b4f8406b0d88448978"
 metafile = true
@@ -545,11 +368,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "696300872c8ee9d7d030726f98554fe5b4f0e308f0a38e74a9928689c88b1726"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "f94e5eedeb9e70a842200b280ab93e64ac6792c004a6e8e56aaa407d584dedeb"
 metafile = true
 
 [[files]]
@@ -730,34 +548,4 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
-metafile = true
-
-[[files]]
-file = "resourcepacks/beautiful-enchanted-books.pw.toml"
-hash = "9b8c583f250c139894d385fc2d18c444f198785ee4057b1b7b06834ac3f8ed1a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/loading-backgrounds-loading-images.pw.toml"
-hash = "db3549fa7ae88734ecea11e46a9da8aa20fffa6c294819a5e6bbe0a3b7f7cf4a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/loading-backgrounds-oceans.pw.toml"
-hash = "43a1c241eea6e0f4fd5e969479f0672182312920456db7bbd4b4f69f089cad94"
-metafile = true
-
-[[files]]
-file = "resourcepacks/loading-backgrounds-structures.pw.toml"
-hash = "266d25e303f8143f6ad7be130f88b7e99aca7656a7a6f2d17b5047f821db59a2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/realistic-animals.pw.toml"
-hash = "9a66c9bfc7a03da1db849f90d2f0f868805408d92e4aa8ca70436a05eec2a5fa"
-metafile = true
-
-[[files]]
-file = "resourcepacks/realistic-mobs.pw.toml"
-hash = "909cb0837938a560ec325397e5aeec6d677515967d79fa7ec9d3f3ccffcad56c"
 metafile = true
