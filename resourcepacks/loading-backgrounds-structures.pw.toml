@@ -1,0 +1,13 @@
+name = "Loading Backgrounds - Structures"
+filename = "loadingbackgrounds-2.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae8a30074059ec552c1ee51aa74794f1f8828389"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5645442
+project-id = 888288

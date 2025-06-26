@@ -1,0 +1,13 @@
+name = "Realistic Mobs"
+filename = "Realistic Mobs - MC 1.21.1 - 4.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9618eaca12d62527a7ae6aa64a0b9978696a715"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6364125
+project-id = 1109370

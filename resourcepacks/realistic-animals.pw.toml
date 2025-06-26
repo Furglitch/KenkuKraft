@@ -1,0 +1,13 @@
+name = "Realistic Animals"
+filename = "Realistic Animals - MC 1.21.1 - 2.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "adcf72bec8768f2dd46ffec3c3d0b2839c7af6ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6364070
+project-id = 1109361

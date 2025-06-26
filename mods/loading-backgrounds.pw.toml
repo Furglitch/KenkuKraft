@@ -1,0 +1,13 @@
+name = "Loading Backgrounds"
+filename = "loadingbackgrounds-neoforge-1.21-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f45dfd2902c771b56acf6e625684b693d2b163b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5430452
+project-id = 882539
