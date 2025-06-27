@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "015ebf9ad50e25c5506e4ec480812104b6b2233495d256b2de4ccb16dd164d77"
+hash = "96f76b98bbc0d6a9c8c4ed99ef31e543f65e33953740539cc7d1a6e30cbe48e6"
 metafile = true
 
 [[files]]
@@ -297,12 +297,12 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
+hash = "3330f934f8dd4d6fa0c188d96cae55449dc8e9b27458ba73cceb801f1a81e082"
 metafile = true
 
 [[files]]
 file = "mods/catalogue.pw.toml"
-hash = "9ac4b1561ea7c44ce427edadb181fb3785e423727f50900e7668ccf00b386979"
+hash = "fbf00a949f7554535fbd9bb488447f2662aec3a23c699436bb5465d97856e5ad"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
+hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
 metafile = true
 
 [[files]]
@@ -347,27 +347,27 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "470b0d6784bece922b1664b34eb022cdcfdffb6c36247389eb32a8154d20057f"
+hash = "bd0eb15eb73d818fa6e5e359cf36d11e080f016ca2c505250d86c0594cfcb7ff"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "fda047f89e77dc385b05ccbe5c4ec6f262fa27ea16f5d6dbcefafb5c5934661d"
+hash = "e2861578efe302ad8bdfea1833676e2c065eab4b698e9d2d9757d2ce98102537"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7703a93c0d884145f7d148e33e968d5b17680477d4e088b4f8406b0d88448978"
+hash = "359b04dff059481ce5644259d9c08a2efeda556dd45373ca1b81b9f57b232f6b"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "f885fa3bea3969aa0dac1ec6f3f49ca7e894208ab9a2e69ed4aa649f67d3722d"
+hash = "d517b316f8eb75c22cbe237c856d99be048eccdf9558b405844d6c0c061b8250"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "696300872c8ee9d7d030726f98554fe5b4f0e308f0a38e74a9928689c88b1726"
+hash = "f9842b5568bfef16d8e6f4bbbea38747cd2e11f3e5069930620a824c931bb40e"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "a9d10573c8fd26e9b43e7af70179c825cec64a5339d7b9d2059436ca4b86c6f7"
+hash = "89ba61b08c73a5c56726fde9653c6790da7bac43bd1069e65721078bc4be1ca5"
 metafile = true
 
 [[files]]
@@ -392,17 +392,17 @@ metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
+hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f0b46153b8357899eb45c1c1991da11d5ae3dab28dbc92e6b8f49dbe2967c464"
+hash = "b0773e2ad50611e61c8e42d4a9267872961d7280e4afc8f79429e8050337abd9"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "1c6c4862ca39adcd77485c161ae89fe6989c926c2d98f528a14598acdd56da97"
+hash = "b6a8af0232146daabb335e71d4fa385a97a8d3640301e7d0d666659c08e6a86c"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "af6b190e42b601eb0e2ca6fd58209f0242ab8c403996f1814956a6699dcd4f86"
+hash = "a03b7bdf3eb3442d8cf9fa9008d02f5137195ef36d52ff8bbdd1558cf8c421a4"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
+hash = "40e1fdc8c58f72bb947b978a773cf963b2d28bb49832500c2bd886f7ac6629bb"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "6492dcbca5fa09ae9fdb3277601ff4cfbe1a2e69607ce091abd7d9f0381386df"
+hash = "9775812a092e19bcd6d153319e475dbcc2a539577362c2658ee502bf4968cc89"
 metafile = true
 
 [[files]]
