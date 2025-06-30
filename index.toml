@@ -261,6 +261,11 @@ file = "config/toastcontrol-client.toml"
 hash = "633a90a36cf0947b199e9a6737c19982d8130820a18b69aa0d16240b584ec001"
 
 [[files]]
+file = "mods/adaptive-performance-tweaks.pw.toml"
+hash = "1ea6aeba202ea5680eb83d7a9d432e6bbe55db40f664cb540bfe3a3c3c91080c"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
 metafile = true
