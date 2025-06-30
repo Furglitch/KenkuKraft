@@ -30,6 +30,7 @@ This is a C
 > - Mob Control
 > - Sinytra Connector
 > - Structurify
+> - Paxi
 >
 > 
 > ## Performance
@@ -39,6 +40,7 @@ This is a C
 > ## Interface
 > - AppleSkin
 > - Better F1 Ⓒ
+> - Better Tooltips Ⓒ
 > - Chat Heads Ⓒ
 > - Cosmetic Armor Reworked
 > - Creative Tabs Plus Ⓒ
@@ -53,6 +55,7 @@ This is a C
 >   - Not Enough Recipe Book
 > - Enchantment Descriptions Ⓒ
 > - Equipment Compare Ⓒ
+> - Fadeless Ⓒ
 > - FTB Quests
 > - Inventory Sorter
 > - Item Zoom
@@ -251,7 +254,6 @@ This is a C
 > - Iron's Spells 'n Spellbooks
 >   - Alshanex's Familiars
 >   - Cataclysm: Spellbooks
->   - Crystal Chronicles
 >   - Hazen 'n Stuff
 >   - T.O Magic 'n Extras
 >
@@ -340,10 +342,12 @@ This is a C
 > - Create Mechanical Spawner
 > - Create: Metalwork
 > - Create: Misc & Things
+> - Create: Mobile Packages
 > - Create: New Beginnings
 > - Create: Pillager Arise
 > - Create: Quality of Life
 > - Create Railways Navigator
+> - Create: Simple Generator
 > - Create: Sound of Steam
 > - Create: Structures Arise
 > - Create Stuff 'N Additions
@@ -386,6 +390,7 @@ This is a C
 > - Village Spawn Point
 >
 > ### Terrain
+> - Large Ore Deposits
 > - Tectonic
 >
 > ### Biomes
