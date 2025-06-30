@@ -139,9 +139,10 @@ This is a C
 >
 > ## Building
 > - Compact Machines
+> - Display Case
 > - Double Doors
-> - ElevatorMod
-> - Framedblocks
+> - OpenBlocks Elevator
+> - FramedBlocks
 > - Handcrafted
 > - Joy of Painting
 > - MineColonies
@@ -155,6 +156,7 @@ This is a C
 >   - Rechiseled: Create
 > - The Block Box
 > - TorchMaster
+> - Universal Shops Ⓕ
 > - Utilitarian
 >
 > ### Placement
