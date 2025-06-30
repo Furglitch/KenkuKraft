@@ -1,0 +1,13 @@
+name = "Berserker (More RPG Classes)"
+filename = "berserker-class-mod-2.4.6-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6bf7de8a35097fb820b298f393d95f891c599008"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6536021
+project-id = 991968

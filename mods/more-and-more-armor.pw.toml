@@ -1,0 +1,13 @@
+name = "More and More Armor"
+filename = "MoreAndMoreArmorNEOFORGE1211UPDATE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf3baa9befbc88b0f796854279a9b4313d76a3a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6337498
+project-id = 1214703

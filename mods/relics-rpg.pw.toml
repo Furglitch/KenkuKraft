@@ -1,0 +1,13 @@
+name = "Relics (RPG Series)"
+filename = "relics-1.0.6+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ee8fe05efe19e7cb5d5b8ff0d5a524379f0d00c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6532478
+project-id = 1204049

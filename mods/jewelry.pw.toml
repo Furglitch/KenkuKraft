@@ -1,0 +1,13 @@
+name = "Jewelry (RPG Series)"
+filename = "jewelry-2.0.10+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c41f339aadee69258e2447938d3d54e39de8578f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6485368
+project-id = 910706

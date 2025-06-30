@@ -1,0 +1,13 @@
+name = "Shield API"
+filename = "ShieldAPI-3.0.0+1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0a1b053ec693bd82a8322c5fe280dbc00e47166"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6052222
+project-id = 1048720

@@ -97,38 +97,44 @@ This is a C
 > 
 > ## Armory
 > - Archers (RPG Series) Ⓕ
-> - Death Knights (RPG Series) Ⓕ
+>   - Archers Expansion (More RPG Classes) Ⓕ
+>   - LNE Archers Add-on Ⓕ
+> - Berserker (More RPG Classes) Ⓕ
+> - Forcemaster (More RPG Classes) Ⓕ
 > - Paladins and Priests (RPG Series) Ⓕ
+>   - LNE Paladins Add-on Ⓕ
 > - Rogues and Warrios (RPG Series) Ⓕ
+>   - LNE Rogues Add-on Ⓕ
+> - Witcher (More RPG Classes) Ⓕ
 > - Wizards (RPG Series) Ⓕ
+>   - LNE Wizards Add-on Ⓕ
 >
 > ### Armor
 > - Advanced Netherite
-> - MC Dungeons Armors
+> - More and More Armor
 >
 > ### Weapons
 > - Arsenal (RPG Series) Ⓕ
 > - Axes Are Weapons
-> - MC Dungeons Weapons
 > - Simply Swords
->   - Knaves' Needs
->   - Simply More
 > - Vic's Point Blank
 > 
 > ### Accessories
 > - Accessories
 >   - Curios Compat Layer for Accessories
+>   - Trinkets Compat Layer for Accessories Ⓕ
 >   - Accessorify
+>   - Additional RPG Jewelry Ⓕ
 >   - Artifacts
 >   - Curious Armor Stands
+>   - Elytra Slot
 >   - Relics
->   - Relics: Artifacts Compat
 >   - Relics: Arcane Abilities
+>   - Relics: Artifacts Compat
 >   - Reliquified Ars Nouveau
->   - Reliquified Twilight Forest
 >   - Reliquified L_Ender's Cataclysm
+>   - Reliquified Twilight Forest
 > - MinecraftCapes Ⓒ
-> - More Armor Trims
 > 
 >
 > ## Building
@@ -179,6 +185,9 @@ This is a C
 > - Apothic Attributes
 > - BetterCombat
 > - Let Me Sleep
+> - LevelZ Ⓕ
+>   - JobsAddon
+>   - LevelZ RPG Series Compat
 > - MmmMmmMmmMmm
 >
 >

@@ -1,0 +1,13 @@
+name = "LNE Wizards Add-On"
+filename = "lne_wizards-1.0.2-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64ae8b25cc4f59f20a0ed6b486fb4c975f8e4540"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6616860
+project-id = 1178295

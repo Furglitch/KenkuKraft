@@ -1,0 +1,13 @@
+name = "LNE Paladins Add-On"
+filename = "lne_paladins-1.0.4-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f9201a8b369cf763ca66012961ce3a7637e84f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6616777
+project-id = 1179587

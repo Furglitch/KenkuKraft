@@ -1,0 +1,13 @@
+name = "Bundle API"
+filename = "bundle-api-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d63ac3ece6f574a608072bd8805713e8bf3b1cc4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6315980
+project-id = 1189983
