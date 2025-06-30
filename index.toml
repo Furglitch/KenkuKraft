@@ -401,6 +401,11 @@ hash = "f70acc8b0bb3b939ca6f29faf761d6ee4ee0a3df8eddbe59285484b633938309"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "17fb9d8711620a02bb9266cb7856af074cf72283ca708f99eb04079538ded976"
+metafile = true
+
+[[files]]
 file = "mods/better-f1-reborn.pw.toml"
 hash = "052b5d8d6aca7ef0e26f0807b8710af8cdc4cd7187cb9c5dd2a4fb28386faf91"
 metafile = true
@@ -911,6 +916,11 @@ hash = "2b4b93584242b21b921dae7514a73c5d0d7a18af6d8b7e4bff1192e11f06b7e3"
 metafile = true
 
 [[files]]
+file = "mods/let-me-sleep-better-monster-checking.pw.toml"
+hash = "a0ba89a662cf8ef8c473bd822a5e287517b2f2512616042133a91d0941432397"
+metafile = true
+
+[[files]]
 file = "mods/limited-chunkloading.pw.toml"
 hash = "a0fdf464a98886c21a8141a76e3f6f6da45b030d3d60b238596ee483dc14438c"
 metafile = true
@@ -1048,6 +1058,11 @@ metafile = true
 [[files]]
 file = "mods/minecraftcapes-mod.pw.toml"
 hash = "de7da0dfbed53e578972110564c02a8ff321f097f5db856c64d4d8b91a3b5cdc"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "e3982b57304066830c360951e5cba28afbf030721e5091ebe37603c728c5fbdc"
 metafile = true
 
 [[files]]
@@ -1473,6 +1488,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
+metafile = true
+
+[[files]]
+file = "mods/tyzs-skills.pw.toml"
+hash = "ed1d8f973d1aefaa9a51e6e4f85ee84a7473f54093d58f56185cb00fa88fb3e4"
 metafile = true
 
 [[files]]

@@ -184,13 +184,10 @@ This is a C
 >
 >
 > ## Combat
-> - Apothic Attributes
 > - BetterCombat
 > - Let Me Sleep
-> - LevelZ Ⓕ
->   - JobsAddon
->   - LevelZ RPG Series Compat
 > - MmmMmmMmmMmm
+> - Tyz's Skills
 >
 >
 > ## Agriculture

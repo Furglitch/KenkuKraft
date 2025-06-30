@@ -1,0 +1,13 @@
+name = "Tyz's Skills"
+filename = "Tyz's skills 4.3-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b657a26a6561b6b42f16452550a0264d83a3fde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6709037
+project-id = 990190
