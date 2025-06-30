@@ -86,12 +86,12 @@ This is a C
 > - Blue Flame Burning
 > - Blur+ Ⓒ
 > - Distant Horizons
-> - Fancy Block Particles Ⓒ
+> - Fancy Block Particles - Renewed Ⓒ
 > - ItemPhysic Lite Ⓒ
 > - Sodium Dynamic Lights Ⓒ
 > - Sound Physics Remastered
 > - Sounds
->   - More Sounds
+>   - More Sound
 > - Snow Under Trees
 >
 > 

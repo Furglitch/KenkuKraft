@@ -281,6 +281,16 @@ hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "edfdc75fd970599b6b3bf0d9455c04d6e97293989a9406a19aff9f5747e1c37a"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "672d1a21c857ca30c1d44129cb0dfd2c4f40f9e6a5a13fec1bf9776e57aabae6"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4ca8b963965342aafdfe251e5306259eb9cf459d43e46d9695974dcff01465aa"
 metafile = true
@@ -318,6 +328,16 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "3330f934f8dd4d6fa0c188d96cae55449dc8e9b27458ba73cceb801f1a81e082"
+metafile = true
+
+[[files]]
+file = "mods/blueflame.pw.toml"
+hash = "d71dc2e2974ac7f9beb7921a6df882b9b171b7f27b08931e9a8166663853e00f"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "45ae6d1a4bb67fb69f6eceaaa6c49078f875e6ac0f2de90ffdca671da55006e2"
 metafile = true
 
 [[files]]
@@ -386,6 +406,11 @@ hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "314ef687d043ba6676786a9ab6bc7d52d5f22b7def2eed31e5ce146e39812e8a"
+metafile = true
+
+[[files]]
 file = "mods/creativetabs.pw.toml"
 hash = "118ee3c6b66a99a0f9c6c9fadf320ac92887404a3a961ba553d18dd5065d6c09"
 metafile = true
@@ -406,8 +431,18 @@ hash = "bd0eb15eb73d818fa6e5e359cf36d11e080f016ca2c505250d86c0594cfcb7ff"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "e74bb6700a9887dd57d628008493ddf491542f31a2fe5f45097216f313335aff"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "e2861578efe302ad8bdfea1833676e2c065eab4b698e9d2d9757d2ce98102537"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "03c4f9a926fc9bd90fc98c6dac2a39e70b28303e4f3519756a7b246444548654"
 metafile = true
 
 [[files]]
@@ -486,6 +521,11 @@ hash = "a04549ab5fd0140b0b6b217c0f1cf006e21d3160df2b16a35b4f56e497b43eb7"
 metafile = true
 
 [[files]]
+file = "mods/fbp-renewed.pw.toml"
+hash = "26d7ec01acc8b85add532137fceb3f37dd2529f00e3e0d0b0faeec7049e36eec"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
@@ -531,6 +571,11 @@ hash = "b772e8a158c45c21844c4acf10f2031335ccc8d05837532ad01034057221bdbd"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "dbc34ada7af1fe08105d440312f544dc1fc0ef2032ef8bc0adda9f0e9c4fb067"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "b0773e2ad50611e61c8e42d4a9267872961d7280e4afc8f79429e8050337abd9"
 metafile = true
@@ -543,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "b6a8af0232146daabb335e71d4fa385a97a8d3640301e7d0d666659c08e6a86c"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "4a53767e46cf933efcb5dbace9fcb2d944586b434743ee60fca1d0c9a6b3bd60"
 metafile = true
 
 [[files]]
@@ -626,8 +676,8 @@ hash = "08912f344f1da4b9525695aef59f796bdabf91fd1be10507646fcfc6d191f6b6"
 metafile = true
 
 [[files]]
-file = "mods/loot-journal.pw.toml"
-hash = "6d7f664e30c3619c6c4e9605fca5642a30645deaf78ce29af9ad00047341a559"
+file = "mods/loot-journal-neoforge.pw.toml"
+hash = "92a905d4cb69ecb028341aa18f86a9b82f141e2f2ebe80b51bc51cbd69dec9a3"
 metafile = true
 
 [[files]]
@@ -651,6 +701,11 @@ hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "48c4a85a9fa803b35fa6145b711229c64aa66edc77943f0c96787fcdcf0a93d2"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-cursor.pw.toml"
 hash = "ee58d9ac4fcc5e62e406d8e7c08eaea7b34b4a01549b8e42c0a697505383c547"
 metafile = true
@@ -666,8 +721,18 @@ hash = "4387cfb8d69490641337ec3d42a8a434683a2d2b129990705e78a800f2795ad1"
 metafile = true
 
 [[files]]
+file = "mods/more-sound.pw.toml"
+hash = "ae8c13410a282db0dbe54b2217b791f082c83368e771a099eb03a918165004dc"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "8dd1efd984ad97b7ddd040c6f8d8306a1a3e43b6c4d5597f2344559c6e83a458"
 metafile = true
 
 [[files]]
@@ -706,8 +771,8 @@ hash = "bee6d3dd094cf4684dee78afd84a47cd168ef0cae02a64bd7d2486fe781a3156"
 metafile = true
 
 [[files]]
-file = "mods/paxi.pw.toml"
-hash = "14d4c7b3c47b4f9e7a5c42f86ad9cff339b0654261df826d5eea0403d5196431"
+file = "mods/paxi-neoforge.pw.toml"
+hash = "3581c37e3c9c7cdd1150bb7ad7e47e3e8107914a5cd9113ddfa74ff2f8b8e09a"
 metafile = true
 
 [[files]]
@@ -781,8 +846,18 @@ hash = "308e0d918ea91f029cf72db5a13b415e1bcdca462c1a021a5f27d77c4fee253c"
 metafile = true
 
 [[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "3da488d70698eb949d7212f4e35cccc89ab2654ccbadd1727bf228d7e2492adb"
+metafile = true
+
+[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "e1732bc6bcc077b23a2784e21839c4d113e2dbf0de29e9448fb7b39d28b19a61"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "e8999e4023917e16ffd07e27cae58ad2337989cdadd9cc8f0e2114ab194c4399"
 metafile = true
 
 [[files]]
@@ -793,6 +868,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "5465e1468402b0470574de3229bc8b3a37b3c3687815e050b22b0de4f48fa083"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "03c7f8dd923a243289fa24368adcc4055e30fe3bb4fafb7dd5819015824cd1dd"
 metafile = true
 
 [[files]]
@@ -861,6 +946,6 @@ hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
 metafile = true
 
 [[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "2b36717b96fda7386f895b78c8231454477c5fdcd8d9571a3d04ce740b74f0b4"
+file = "mods/yungs-api-neoforge.pw.toml"
+hash = "8853594d1df424aea32d37bd2af2972dce252d7760160edbc7370cedffc9ef9c"
 metafile = true
