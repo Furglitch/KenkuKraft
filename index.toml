@@ -296,6 +296,11 @@ hash = "aa46a4ee72007fef238f8a442523effa94e864a7741db5538decc710119a02a9"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "e6448befb831607b6f7522250c5f6f2bfd57c80b614467286465b248258c3939"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
 metafile = true
@@ -336,6 +341,16 @@ hash = "4ca8b963965342aafdfe251e5306259eb9cf459d43e46d9695974dcff01465aa"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture-delight.pw.toml"
+hash = "918cbc479cfc5c66ee234bc3f71ee584c1ab596f0d88aaa59bf66ca3b404c5db"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "4cc090d258d260dcac24080dd33df5ab1d5c346f26a48b77cd739734e2415bab"
+metafile = true
+
+[[files]]
 file = "mods/arcane-abilities.pw.toml"
 hash = "dfdac40db9bda0178a16a4194cae0d4a26365024e5cdbe51e654a7b10011b19c"
 metafile = true
@@ -358,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "7b665caedbebe5b9f733e9fa0a326b980e98ad955c047c986d659d41b8e2190f"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveaus-flavors-delight.pw.toml"
+hash = "38fe9e2b5d0869aceede7d5d1d2d2bc64587e3183ca28caf84cd78ba9ad874a9"
 metafile = true
 
 [[files]]
@@ -393,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "8414a136dd695904e4fbb6c91b3c541706933b44f5f8c860ac51b594168e7fb2"
+metafile = true
+
+[[files]]
+file = "mods/barbeques-delight.pw.toml"
+hash = "e18d0053c53b84d819de4cbf9b21f8606e85665d9d9052af2ab1f131f04414d5"
 metafile = true
 
 [[files]]
@@ -491,6 +516,11 @@ hash = "316163a6c1aec3dbd5a5ab4be3663b6d2783ca193a680ae2ff402b4db681bbcc"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight-forge.pw.toml"
+hash = "ab4369feacbd745c55a57f455c13cf5a6f94a0463026587de220d277b3a031c9"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
@@ -566,6 +596,11 @@ hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
 metafile = true
 
 [[files]]
+file = "mods/crate-delight-forge.pw.toml"
+hash = "afe7cf9b4540f876c5d6a7c7b41ed09ff476766f4d31e03d679a191c8bb71a69"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
 metafile = true
@@ -578,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/creativetabs.pw.toml"
 hash = "118ee3c6b66a99a0f9c6c9fadf320ac92887404a3a961ba553d18dd5065d6c09"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "c5a93805e9edc7013b5f18b61918812eb333de605304edffbec113c98ae282fb"
 metafile = true
 
 [[files]]
@@ -676,6 +716,11 @@ hash = "ddc8561789347f9feb359394c927ef979f63bc92b8abd171122ae496dff24ec0"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "29fffe2f1d0f656de83ba0731233a20f664dc97d0b89918e609fc0b190a3fab1"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "359b04dff059481ce5644259d9c08a2efeda556dd45373ca1b81b9f57b232f6b"
 metafile = true
@@ -701,13 +746,48 @@ hash = "3e11ffcdd1d2c77ac05bf2fbeb52f746491efbc8b2664e80aed8670856c0f686"
 metafile = true
 
 [[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "a7134259f5e10ba4130fcec0666039c9decae5dc69944d90ec31a22a31c89c25"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "1e55e6873a5a1dcf5a326e409c2cc856ffbc950183fe61f96e76e778e1cbe4a3"
 metafile = true
 
 [[files]]
+file = "mods/extradelight.pw.toml"
+hash = "0cb4b7121f0e21511fe2e649be2d322f1d0c79a1dcb7a84491ee867ac34c8306"
+metafile = true
+
+[[files]]
 file = "mods/fadeless.pw.toml"
 hash = "98ff5eb507bb2485a3bfcb4757f0620812e7f8dca085ed11978bce30e763d6d0"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-oh-the-biomes-weve-gone.pw.toml"
+hash = "44030876800c6a4cb0be4f78a906db0c230dea8f60007afbbd67262f194e0751"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-regions-unexplored.pw.toml"
+hash = "f6b60c49323ac6530c6570ce16f8f423ac1e61760e13580d2e9f711c047ae5df"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-the-aether.pw.toml"
+hash = "2ebcb9f608126f5516f2bc67ab3623859819b25ec34beabfc844f11efe11a421"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-twilight-forest.pw.toml"
+hash = "bacccc035c065405ea03826be6bbcad6e65f6622584109af3108cedaa7df1b7f"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "94a3f62be55b8772c8d3259cfaa6d42ff38137d5835fe5b56a96c114e169b8ac"
 metafile = true
 
 [[files]]
@@ -803,6 +883,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
+metafile = true
+
+[[files]]
+file = "mods/heyberryshutup.pw.toml"
+hash = "bb45fd8d63908c2c96b96d6b863a748b0d673b37310af207bb352c007af05dd0"
 metafile = true
 
 [[files]]
@@ -913,6 +998,11 @@ metafile = true
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "2b4b93584242b21b921dae7514a73c5d0d7a18af6d8b7e4bff1192e11f06b7e3"
+metafile = true
+
+[[files]]
+file = "mods/lenderscataclysm-delight.pw.toml"
+hash = "6014a2a128514adb4fc1832311a17052d029f06e2d1990b6ec0270af8b842452"
 metafile = true
 
 [[files]]
@@ -1086,6 +1176,11 @@ hash = "04c443e9333991ab380e698e2aa33a6517810b52e96f7beecbed29137d68a972"
 metafile = true
 
 [[files]]
+file = "mods/more-delight-forge.pw.toml"
+hash = "e72f6126f69081e6874a0717730f13958f0dcbc008f8dfb7d5b6e55f6499c2d9"
+metafile = true
+
+[[files]]
 file = "mods/more-rpg-classes.pw.toml"
 hash = "dcfbd1fe3577979d9731a73c9ff6193595134e91e7045df0c875b5ac037ba673"
 metafile = true
@@ -1116,6 +1211,11 @@ hash = "25a3208d521f2af8ec7176871df7a7cdaf6637c57952716e0e2c4484668aaf7b"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "06e9f867e1bde3ab201aba7e7347995efa7281983a0c1ac00836641d6b758bc6"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "3306e7d489b110cc591731c6739475f85ccd776a0fcab673c6e06417df1f0e5d"
 metafile = true
@@ -1128,6 +1228,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "5ea7556ae91d3f6a6bbb36f0641184c7d53052a167b7d1d1b006bacb28193524"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "60959e2d411a9a57e1eb3f64d75761ee9728eb1e480e3911d6714de71c2bf51f"
 metafile = true
 
 [[files]]
@@ -1251,6 +1356,11 @@ hash = "35eb897c9736c48125a8f86253bc5c0f6f1b3891127d7c300d00b0339167cd36"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "134b3bb10e0d265734eba90eaffce14804077403ca1c1a3ccfc1fc2367b1ba7e"
+metafile = true
+
+[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "6ab010914e5472082ccf894b232d61a01793c27e554adc6fd12ab4f7966dde73"
 metafile = true
@@ -1276,6 +1386,16 @@ hash = "df133563d15a5c76c99d4284b11a434557581534fec21338b81d3876d5183324"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-farmers-delight-compat-mod.pw.toml"
+hash = "491004187034b4fda65b99d19f19efab14100760ae4ce080f5e454277c3e3351"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures.pw.toml"
+hash = "f5e4b63daeb25b0103b88ef8a2c08698e81b6f5faf55c5f0e1f9613dbe346633"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
@@ -1293,6 +1413,11 @@ metafile = true
 [[files]]
 file = "mods/rune-crafting.pw.toml"
 hash = "1a5edb2e9e6143972b3c2800f4932be18bf96902358debc31f4819e63f55f0d1"
+metafile = true
+
+[[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "a37e9ef75ca3097ae9e9319993d77364ca748d8c5f11f373852189fa65746caa"
 metafile = true
 
 [[files]]
@@ -1406,6 +1531,11 @@ hash = "0be4e56ec8d58a8190251d267c4baf6df7e93dc21ba637473ba9ce893b5c5a51"
 metafile = true
 
 [[files]]
+file = "mods/storage-delight-forge.pw.toml"
+hash = "51a3bc11e9b8726d746d2bdaa6eed783184c8bc55794480057ae81626a762ed0"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "fa83a43df0c7545b4c6d9f82f3c50fb6634c965aa742bab3aa626b7b705f09ac"
 metafile = true
@@ -1446,6 +1576,16 @@ hash = "31dd55d2b8eaae89233b47c3c9fddef2ce86af6d30ecc8e5bb1676e417867b51"
 metafile = true
 
 [[files]]
+file = "mods/terrablender-neoforge.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
+metafile = true
+
+[[files]]
+file = "mods/the-aethers-delight.pw.toml"
+hash = "75a7edaf0273fce7783fecdeede1e2e8ce37b33440a4d0d8307150cd8854f37f"
+metafile = true
+
+[[files]]
 file = "mods/the-block-box.pw.toml"
 hash = "c8642cf1ac15e24a81e162845554b22ad392989e3045cf4966085ffaf48c5071"
 metafile = true
@@ -1483,6 +1623,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "1416c0bbab07aab5ca91b2fae8a8a6cfc48db78687c500b292885c42eb1b004c"
+metafile = true
+
+[[files]]
+file = "mods/twilights-flavors-delight.pw.toml"
+hash = "93f15daf2f5a528843da24bd68ecff42bf266e8f32f3697ae177a9bdd2ac6a25"
 metafile = true
 
 [[files]]

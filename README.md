@@ -196,11 +196,11 @@ This is a C
 > - Farmer's Delight
 >   - Aether's Delight Ⓜ
 >   - Aquaculture Delight
->   - Ars Nouveau's Flavors and Delights
+>   - Ars Nouveau's Flavors and Delight
 >   - Barbeque's Delight
 >   - Chef's Delight
 >   - Crate Delight
->   - Cultural Delight
+>   - Cultural Delights
 >   - Ender's Delight
 >   - Expanded Delight
 >   - Extra Delight
@@ -215,7 +215,7 @@ This is a C
 >   - Repurposed Structres - Farmer's Delight Compat Mod
 >   - Rustic Delight
 >   - Storage Delight
->   - Twilight's Flavors and Delights
+>   - Twilight's Flavors and Delight
 > - Hey Berry! SHUT UP
 >
 > 
