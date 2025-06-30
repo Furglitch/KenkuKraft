@@ -596,6 +596,16 @@ hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
 metafile = true
 
 [[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "c06a4497cf04a51081e3458d408f537d6e5dee211346f89e66c80ecef4eee106"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "141bec32c90144fdf64617a3a7c997cabb062b6f6690f21dd70b6a83034d11fd"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight-forge.pw.toml"
 hash = "afe7cf9b4540f876c5d6a7c7b41ed09ff476766f4d31e03d679a191c8bb71a69"
 metafile = true
@@ -678,6 +688,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "03c4f9a926fc9bd90fc98c6dac2a39e70b28303e4f3519756a7b246444548654"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "3ded0d68b09fe994803e3129cefd1db3b20e0cc9a70892af7c9e4f70523d5536"
 metafile = true
 
 [[files]]
@@ -911,6 +926,11 @@ hash = "b6a8af0232146daabb335e71d4fa385a97a8d3640301e7d0d666659c08e6a86c"
 metafile = true
 
 [[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "f97299e57f48f4fbab3192848d4dbc8d1f2412d19b67f70523b64ebbca3c50ce"
+metafile = true
+
+[[files]]
 file = "mods/itemphysic-lite.pw.toml"
 hash = "4a53767e46cf933efcb5dbace9fcb2d944586b434743ee60fca1d0c9a6b3bd60"
 metafile = true
@@ -953,6 +973,11 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "e969c54f8b34ce0c793672e47ded8de32b40a71f4e9a73ca0947c5ce6390d63f"
+metafile = true
+
+[[files]]
+file = "mods/just-better-recipes.pw.toml"
+hash = "51ea039172465b662b19defa36525f3da23093764ec0e510c3df2f6aeed94937"
 metafile = true
 
 [[files]]
@@ -1421,6 +1446,11 @@ hash = "a37e9ef75ca3097ae9e9319993d77364ca748d8c5f11f373852189fa65746caa"
 metafile = true
 
 [[files]]
+file = "mods/scholar.pw.toml"
+hash = "b726c0453a8df042ebc69fc499e40c2a0029cd30d2f8bbf5c717fb601b821ef0"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
@@ -1648,6 +1678,11 @@ metafile = true
 [[files]]
 file = "mods/vics-point-blank.pw.toml"
 hash = "1afe3f90b42a2e4dce2428ba30f0dc71d3c9b2fe084cfeb50d2c2d0d4f1ea962"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "1139403fa449692a4cea41e24328533ccae30d0cd92c8e95fef43109ff72b490"
 metafile = true
 
 [[files]]
