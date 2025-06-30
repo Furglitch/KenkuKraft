@@ -1,0 +1,13 @@
+name = "Shoulder Surfing Ultimine"
+filename = "shouldersurfingultimine-1.0.1+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "0b144cd3c935e898d1e6fc6004edf077eb362e6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6616074
+project-id = 1280003

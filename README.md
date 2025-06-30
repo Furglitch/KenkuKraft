@@ -39,7 +39,7 @@ This is a C
 > 
 > ## Interface
 > - AppleSkin
-> - Better F1 Ⓒ
+> - Better F1 Reborn Ⓒ
 > - Better Tooltips Ⓒ
 > - Chat Heads Ⓒ
 > - Cosmetic Armor Reworked
@@ -58,9 +58,10 @@ This is a C
 > - Fadeless Ⓒ
 > - FTB Quests
 > - Inventory Sorter
-> - Item Zoom
+> - Item Zoom Ⓒ
 > - Jade
->   - Jade Order
+>   - Jade Addons
+>   - JadeColonies
 > - JourneyMap
 >   - FTB Chunks
 >   - JourneyMap Integration
@@ -70,6 +71,7 @@ This is a C
 > - OK Zoomer Ⓒ
 > - Overflowing Bars
 > - Shoulder Surfing Reloaded Ⓒ
+>   - Shoulder Surfing Ultimine Ⓒ
 > - Showcase Item
 > - Stylish Effects
 > - Trade Cycling

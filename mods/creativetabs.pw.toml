@@ -1,0 +1,13 @@
+name = "CreativeTabs+"
+filename = "CreativeTabPlus-neoforge-1.21.1-1.1.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "89909dee0269034df6ed92ee00b54389e45bbe2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6144699
+project-id = 1184018
