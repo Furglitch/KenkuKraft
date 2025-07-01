@@ -1,0 +1,13 @@
+name = "Create: Dimension, Steamworks Realm"
+filename = "create_dimension-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7fee3086614ace4819c7c6a54534fb1de37cd69f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6515991
+project-id = 1214409

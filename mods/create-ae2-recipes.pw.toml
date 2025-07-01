@@ -1,0 +1,13 @@
+name = "Create: AE2 recipes"
+filename = "create_ae2recipes-0.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1e5b80d56f7561370ec9a7dfecda427041b6d7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6685723
+project-id = 1288443

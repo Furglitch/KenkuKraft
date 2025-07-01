@@ -305,7 +305,6 @@ This is a C
 > ## Storage
 > - Applied Energistics 2
 >   - AE2: Better Villager
->   - AE2 Mega Things
 >   - AE2 QoL Recipes
 >   - AEInfinityBooster
 >   - Applied Energistics 2 Wireless Terminals
@@ -313,6 +312,7 @@ This is a C
 >   - Applied Flux
 >   - Applied Mekanistics
 >   - Ars Énergistique
+>   - Mega Cells
 > - Bank Storage
 > - Easy Shulker Boxes
 > - Ender Storage
@@ -370,7 +370,6 @@ This is a C
 > - Create: Curios Jetpack & Backpack
 > - Create: Filters Anywhere
 > - Create Oritech Compat
-> - Create Ultimine
 > - Create: Wizardry
 > - Sophisticated Backpacks Create Integration
 > - Sophisticated Storage Create Integration
