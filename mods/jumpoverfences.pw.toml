@@ -1,0 +1,13 @@
+name = "JumpOverFences"
+filename = "jumpoverfences-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19109781399613b83a5a2eb3075added33538f9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5365001
+project-id = 353641
