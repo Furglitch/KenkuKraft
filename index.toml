@@ -286,6 +286,11 @@ hash = "1ea6aeba202ea5680eb83d7a9d432e6bbe55db40f664cb540bfe3a3c3c91080c"
 metafile = true
 
 [[files]]
+file = "mods/additional-dragons.pw.toml"
+hash = "db97bbb3e5e0e739bf2caa7b78766adc96880bd0fd16eee62fb0434aa966a221"
+metafile = true
+
+[[files]]
 file = "mods/additional-rpg-jewelry.pw.toml"
 hash = "30242bcd0f2ceeb790cec9b915f0878ac60644970fe8d81215e8093924e64024"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "aa46a4ee72007fef238f8a442523effa94e864a7741db5538decc710119a02a9"
+metafile = true
+
+[[files]]
+file = "mods/aether-dragon-dragon-survival-addon.pw.toml"
+hash = "03cfb6413feddbb80f80eda0ead36ad0d25d4861336b3d3436481fbc6f077d95"
 metafile = true
 
 [[files]]
@@ -313,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "674c0b5a3b389edc0d0e205c114715f59ebb3dce8d2ed0ceea525aa89a937f2d"
+metafile = true
+
+[[files]]
+file = "mods/alshanexs-familiars.pw.toml"
+hash = "bbb19ac3da08e45c11f53c8452af415c10fabe6be0279a7ee030788894a3ad06"
 metafile = true
 
 [[files]]
@@ -376,6 +391,21 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "c6a3813c00f1c2457d76c1c18bd8d2229293fb298ba7d1c9a83ee98cb7c150e6"
+metafile = true
+
+[[files]]
+file = "mods/ars-artillery.pw.toml"
+hash = "bd410ce6b41ea80f0b77e84fe5a90037075a7148cf8c328bc18604287d9868e6"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "6fda0c6a1e7189d9617e3510ed758b738b72a9ab16d9ec1069ed2fc798a69fb8"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "7b665caedbebe5b9f733e9fa0a326b980e98ad955c047c986d659d41b8e2190f"
 metafile = true
@@ -408,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "777c5de504f89880cef574659fb1b6529c6819fefe20c07a2624cdf43d8c0819"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "ae182620b5b407b0ffb828ac1cfdfcc980656d41d232c65fceca5ea0b69ce3f3"
 metafile = true
 
 [[files]]
@@ -466,6 +501,11 @@ hash = "3330f934f8dd4d6fa0c188d96cae55449dc8e9b27458ba73cceb801f1a81e082"
 metafile = true
 
 [[files]]
+file = "mods/beyondenchant.pw.toml"
+hash = "bcc675a084bfaef51958262661ab35240dedd868f86ca0847bb2dbd01e3fab23"
+metafile = true
+
+[[files]]
 file = "mods/blackwolf-library.pw.toml"
 hash = "494085aa69b507bfc95cdad935a5eb005740de59c0052d0ac0bed1405fbab7b8"
 metafile = true
@@ -508,6 +548,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "03891e2139991fd25a654a5e880219d2ce2971633e875de13be4b67603d97331"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "31a265dea6ed80f9eac5feac4e22cfa8258e29bf7b46e53bbfd15bfc51574efe"
 metafile = true
 
 [[files]]
@@ -656,6 +701,11 @@ hash = "dcc2615adce2babd45d4a14720fd918fb0dec3422e59d00d50ef800205632014"
 metafile = true
 
 [[files]]
+file = "mods/dark-doppelganger.pw.toml"
+hash = "7a6a49bd812929ce745cae2970609bb7212429021c6847dd5ed92c5bd79b72ee"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "bd0eb15eb73d818fa6e5e359cf36d11e080f016ca2c505250d86c0594cfcb7ff"
 metafile = true
@@ -696,6 +746,16 @@ hash = "ab58d529b6dc1d585087d359147edb57507cf1b8f0fe78a0e4c88117f963d014"
 metafile = true
 
 [[files]]
+file = "mods/dragon-survival-griffin-addon.pw.toml"
+hash = "0d1774659a650561290b0f97ab109dd8bbb59d6bfd6b25230d6cd8454196689a"
+metafile = true
+
+[[files]]
+file = "mods/dragons-survival.pw.toml"
+hash = "3da0d5ae34960b4f2f8b7597b8a4ad50218911b876982df3c7e434c6103034bc"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "e2861578efe302ad8bdfea1833676e2c065eab4b698e9d2d9757d2ce98102537"
 metafile = true
@@ -708,6 +768,11 @@ metafile = true
 [[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "3ded0d68b09fe994803e3129cefd1db3b20e0cc9a70892af7c9e4f70523d5536"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "14737f47940556515dfdee992838fb8e19e7145f6aadd565efe04d068d19d75e"
 metafile = true
 
 [[files]]
@@ -738,6 +803,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-infuser-forge.pw.toml"
+hash = "473d2c3c2b40a1c714b843780a24c58d49892083714e583702d7e6b1bdd1010b"
 metafile = true
 
 [[files]]
@@ -943,6 +1013,11 @@ metafile = true
 [[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "f97299e57f48f4fbab3192848d4dbc8d1f2412d19b67f70523b64ebbca3c50ce"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "17fc53fb7928765a46b22de2eece086d38d1d620cb995a56b972786e13ba329b"
 metafile = true
 
 [[files]]
@@ -1311,6 +1386,11 @@ hash = "06e9f867e1bde3ab201aba7e7347995efa7281983a0c1ac00836641d6b758bc6"
 metafile = true
 
 [[files]]
+file = "mods/neoenchant.pw.toml"
+hash = "9166f9bd0a716eac06e76a10781a8b57f6462b6748c73bf62af7b4e55c8faaa2"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "3306e7d489b110cc591731c6739475f85ccd776a0fcab673c6e06417df1f0e5d"
 metafile = true
@@ -1368,6 +1448,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "cd6bb8ff922137a4afd79710e9082855cdd91e11b5be3678e99accdcd3b7baac"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
 metafile = true
 
 [[files]]
@@ -1626,6 +1711,11 @@ hash = "a78a332ddf75f625f2597b5224422df79305cde0a9816304d9169e9eb29ec107"
 metafile = true
 
 [[files]]
+file = "mods/starbunclemania.pw.toml"
+hash = "6829ec37cdaa82e4e564acd4fe25ba5a9c90f359a769310918b8b310f9592639"
+metafile = true
+
+[[files]]
 file = "mods/startinv.pw.toml"
 hash = "4318e9916b0168dad46b26b007e9f986fc27f72099bbcb99222f8fa7d5d34a27"
 metafile = true
@@ -1728,6 +1818,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "1416c0bbab07aab5ca91b2fae8a8a6cfc48db78687c500b292885c42eb1b004c"
+metafile = true
+
+[[files]]
+file = "mods/tundra-dragon-dragon-survival-add-on.pw.toml"
+hash = "6d343c12eaca81f4d6c0e6f02c4b5952fb44328335f488dd784c7b58832acbae"
 metafile = true
 
 [[files]]

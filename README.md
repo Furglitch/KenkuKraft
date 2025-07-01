@@ -255,17 +255,15 @@ This is a C
 >   - Ars Artillery
 >   - Ars Elemental
 >   - StarbuncleMania
-> - Dragon Survival
+> - Dragons Survival
 >   - Additional Dragons
 >   - Aether Dragon
->   - Dragon Survival  - Griffin Addon
->   - Dragon Survival Compatibility
+>   - Dragon Survival - Griffin Addon
 >   - Tundra Dragon
 > - Iron's Spells 'n Spellbooks
 >   - Alshanex's Familiars
 >   - Cataclysm: Spellbooks
->   - Hazen 'n Stuff
->   - T.O Magic 'n Extras
+>   - Dark Doppelganger
 >
 > ### Enchanting
 > - Easy Magic

@@ -1,0 +1,13 @@
+name = "Additional Dragons"
+filename = "additionaldragons-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2bb12f4017e1831ef88bf6eea1fcde34b4b0f1a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6644140
+project-id = 982609
