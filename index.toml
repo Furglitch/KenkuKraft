@@ -521,6 +521,11 @@ hash = "e18d0053c53b84d819de4cbf9b21f8606e85665d9d9052af2ab1f131f04414d5"
 metafile = true
 
 [[files]]
+file = "mods/bartering-station.pw.toml"
+hash = "54378bc877e54fc09516053e0f18c7d3aac99cd2339cfff58961cc11da9d2ae6"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
 metafile = true
@@ -2321,6 +2326,11 @@ hash = "27f23c2bc5266717f83de1376149ed67107630e0e89f21ec204aa806a448dcfe"
 metafile = true
 
 [[files]]
+file = "mods/toms-trading-network.pw.toml"
+hash = "a3296887ba193a8ac1cf8a1aff4a380e6c053aa5e30026a7987abaab0b2188d3"
+metafile = true
+
+[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "f20c38f9378a6946dec3f7465dd074c8359843eea0729bccc1912b6472d815e7"
 metafile = true
@@ -2333,6 +2343,11 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "4c00caba57fa2aa18ebf941fbe897ab444252f6baf816f5d1fea9430ac5b3779"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "2ce88d616a4a4c4030bdcaa478adc5afae24c7b901375ae366aceb2d7f43e812"
 metafile = true
 
 [[files]]
