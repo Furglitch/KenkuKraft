@@ -442,18 +442,18 @@ This is a C
 > - Dimensional Trial Chambers
 > - Repeatable Trial Chambers
 >  
->   #### Villages
+> #### Villages
 > - It Takes a Pillage Continuation
 > - Underground Villages
 > - Tax' Deep Villager
 > - Tax' Village Architect
 >  
->   #### The Nether
+> #### The Nether
 > - Awesome Dungeon Nether Edition
 > - Moog's Nether Structures
 > - YUNG's Better Nether Fortresses
 >  
->   #### The End
+> #### The End
 > - Awesome Dungeon The End Edition
 > - Medieval Buildings - End Edition
 > - Moog's End Structures
@@ -463,13 +463,13 @@ This is a C
 > ### Dimensions
 > - Dimensional Threading Reforked
 > 
->   #### The Nether
+> #### The Nether
 > - Basic Nether Ores
 > - BetterNether Ⓕ
 > - Incendium
 > - NetherEx
 >  
->   #### The End
+> #### The End
 > - Basic End Ores
 > - BetterEnd Ⓕ
 > - End Remastered
@@ -477,7 +477,7 @@ This is a C
 > - Nullscape
 > 
 >  
->   #### New Dimensions
+> #### New Dimensions
 > - The Aether
 >   - Aether Addon: Overworld Ores
 >   - Aether Addon: Protect Your Moa
