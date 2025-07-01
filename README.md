@@ -292,7 +292,7 @@ This is a C
 >
 > ### Villagers
 > - Easy Piglins
-> - Easy Pillagers
+> - Easy Villagers
 > - Guard Villagers
 > - More Villagers : Re-employed
 > - Villager Names

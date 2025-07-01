@@ -531,6 +531,11 @@ hash = "08d726bfed2555eda3603159d9a4895f3aa29c522eeea27ec67cdcb8b6013dac"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction-forge.pw.toml"
+hash = "72b8637f99298483016f7f7acc075462a88bbd60ef1b8b62a6c5eaf533bb8a82"
+metafile = true
+
+[[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "e5c9649e2e622248382ac05979512e14e652b32fe31e592db3b4aef9fc2a9488"
 metafile = true
@@ -561,6 +566,11 @@ hash = "fbf00a949f7554535fbd9bb488447f2662aec3a23c699436bb5465d97856e5ad"
 metafile = true
 
 [[files]]
+file = "mods/cerbons-api.pw.toml"
+hash = "1cb3db95dbf424de74a4572994d7b32fc8560dc31e0495d10825f195b2103462"
+metafile = true
+
+[[files]]
 file = "mods/cfm-refurbished-circuit-breaker.pw.toml"
 hash = "0c81d037c4919c66c4938854474b016a1cdb66da47ca9893edd6674368cfa60a"
 metafile = true
@@ -583,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
+metafile = true
+
+[[files]]
+file = "mods/choccos-mobs.pw.toml"
+hash = "e4d12c563a13dd5d5bea4998f2e08801bfac25e23e0aba2b364c9e52f2961226"
 metafile = true
 
 [[files]]
@@ -691,6 +706,11 @@ hash = "118ee3c6b66a99a0f9c6c9fadf320ac92887404a3a961ba553d18dd5065d6c09"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "09f8e2af6cb0a5151a44390389ec62012296ec069dd21eb418079e17b48c2f18"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "c5a93805e9edc7013b5f18b61918812eb333de605304edffbec113c98ae282fb"
 metafile = true
@@ -781,6 +801,16 @@ hash = "14737f47940556515dfdee992838fb8e19e7145f6aadd565efe04d068d19d75e"
 metafile = true
 
 [[files]]
+file = "mods/easy-piglins.pw.toml"
+hash = "dfe4db00397fce2c9665d65f8470d08607bea98c92930e414322d83bcdb843ed"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "aad56e2b3fbae0d178cdcbab3a8fbdd3cdebf32314f7c514ce9ed512177d5678"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
 metafile = true
@@ -818,6 +848,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "ddc8561789347f9feb359394c927ef979f63bc92b8abd171122ae496dff24ec0"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "18ff135f3f902bd5350f6f8a7117ef4c7bfc106cf34ad1115722bcdff154971b"
 metafile = true
 
 [[files]]
@@ -946,6 +981,11 @@ hash = "11bc4d2951f2bbb0dd17c77534f05c909987e19203398558713bc515f441d5a2"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "276d314e482d18421cc3d5675486485685b82b7fca874317e970c6485e31702a"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "c20d5829bd3005c16da7b40495524223178f5f204cdc5ca05cb40c3246aec95d"
 metafile = true
@@ -991,8 +1031,18 @@ hash = "6842de0dd24898225611ed2a47b5fcafa4e9d82eacfbefdcd11edd30403c1818"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "90c35a1cb43121f4e5f2083eec67834b1aca198f5df804cc4f961619d6453f1c"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
+metafile = true
+
+[[files]]
+file = "mods/hardened-armadillos.pw.toml"
+hash = "0eaf07b3e07f59e5101a8724c23969495aaa649c6714e0ececff27e5550f2646"
 metafile = true
 
 [[files]]
@@ -1341,6 +1391,11 @@ hash = "e3982b57304066830c360951e5cba28afbf030721e5091ebe37603c728c5fbdc"
 metafile = true
 
 [[files]]
+file = "mods/mobs-of-mythology.pw.toml"
+hash = "67eba924d74910e7db18a292ac7468bcbccd8b7aba900121048d9d3cbe31cd03"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "9d5a7849e8434740de47b1e57ac57e3001ee2ac884089ca9d4f2e0f1a59c862e"
 metafile = true
@@ -1373,6 +1428,11 @@ metafile = true
 [[files]]
 file = "mods/more-sound.pw.toml"
 hash = "ae8c13410a282db0dbe54b2217b791f082c83368e771a099eb03a918165004dc"
+metafile = true
+
+[[files]]
+file = "mods/more-villagers-re-employed.pw.toml"
+hash = "729c7821919b9e17d83cbf8b8c59b6107527d4b5e2e5cbb1608fe2aee458f872"
 metafile = true
 
 [[files]]
@@ -1686,6 +1746,11 @@ hash = "284209a2f5d901008f915488fc05d93d2f920a0c04b40869bec0ea93eb847c3d"
 metafile = true
 
 [[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "107b420afc69f871b5eda0d20032ee2c57a7282f8123495cc6e3c9877e500fd7"
+metafile = true
+
+[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "e1732bc6bcc077b23a2784e21839c4d113e2dbf0de29e9448fb7b39d28b19a61"
 metafile = true
@@ -1876,8 +1941,18 @@ hash = "2c55793a16d42dc2b10b5507c8799a41b42996e84f7be231341d1d79ecbe7881"
 metafile = true
 
 [[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "f19c73f679038cc32cbc3f3cf5047002cea5a3de6cd6afe05cbbbbe01feba7ad"
+metafile = true
+
+[[files]]
 file = "mods/vics-point-blank.pw.toml"
 hash = "1afe3f90b42a2e4dce2428ba30f0dc71d3c9b2fe084cfeb50d2c2d0d4f1ea962"
+metafile = true
+
+[[files]]
+file = "mods/villager-names.pw.toml"
+hash = "eb6493a160f157ae4d0f57edccf82036c8a3b514c56dacfe41f9c3fe72583396"
 metafile = true
 
 [[files]]
