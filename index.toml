@@ -311,6 +311,11 @@ hash = "0cdc1683db4b0d7c09033144d864c504841babd65f3d716b85e597c54f3170bf"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "674c0b5a3b389edc0d0e205c114715f59ebb3dce8d2ed0ceea525aa89a937f2d"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
@@ -423,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/berserker-rpg-class.pw.toml"
 hash = "f70acc8b0bb3b939ca6f29faf761d6ee4ee0a3df8eddbe59285484b633938309"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "1a69dc193b78a56d431b46de0e0eaa928ef2586702128e5a26b15d8eaeab8f0f"
 metafile = true
 
 [[files]]
@@ -583,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
+metafile = true
+
+[[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "0d0ccc7fad1bf9f92445945ef2aa3f09c7b8a5a77295677bd484789e393b11b7"
 metafile = true
 
 [[files]]
@@ -1076,6 +1091,56 @@ hash = "08912f344f1da4b9525695aef59f796bdabf91fd1be10507646fcfc6d191f6b6"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations-adventure-dungeons.pw.toml"
+hash = "80d67b4afda1d78f8bb97d2628178a1be85ba956f9bb3baf4f3a5fc99dea6ecb"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-awesome-dungeon.pw.toml"
+hash = "4edb2aeb4d49ebb7811f0cb97464529bca9c0860a59030db6656548cd183e1ba"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-better-archeology.pw.toml"
+hash = "95206dcceba1420afcf7cc8498c4cce27f534bfa5e2b997dc814a12699c85cfe"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-cataclysm.pw.toml"
+hash = "dc58aac183642c965c2b2fe267fb9f4635988a45ae3a64e73061af7814f3e4a3"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-dungeon-crawl.pw.toml"
+hash = "f40e4fe1f7c06755e2ff58f9e3cf9cd9fd4e515f4ef6e18e79a3a9b8afb61cb4"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-hopo-better-mineshaft-ruins.pw.toml"
+hash = "e2303b32cd1ac4154889517770f048ae58f85a2848b6819dbddc1b15f2b78bfb"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-medieval-buildings-end.pw.toml"
+hash = "0fb097dd3598e5c0d2657e275d9ec05d7fd6fd2bf4b52b041932db5489658bf5"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-moogs-voyager-soaring-end-nether.pw.toml"
+hash = "d3f2ddf2f62c728c58b46fa3dbf5d962851628b7ae9735291df578838106af83"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-structory-towers.pw.toml"
+hash = "ec6a39120788d176adbc098e546fbed7abedce952d5168a78e14459214a005ed"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
+metafile = true
+
+[[files]]
 file = "mods/loot-journal-neoforge.pw.toml"
 hash = "92a905d4cb69ecb028341aa18f86a9b82f141e2f2ebe80b51bc51cbd69dec9a3"
 metafile = true
@@ -1083,6 +1148,11 @@ metafile = true
 [[files]]
 file = "mods/lootjs.pw.toml"
 hash = "52a1ff4e7564d647343d619ac7ff046c27649e0cce290eacfd09027b3f3e4b19"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "20084e6c096135548dbceb71e6adb7ed2cdaa66dc4e3e2e3bc2055091e109bbe"
 metafile = true
 
 [[files]]
@@ -1421,6 +1491,11 @@ hash = "f5e4b63daeb25b0103b88ef8a2c08698e81b6f5faf55c5f0e1f9613dbe346633"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
@@ -1671,8 +1746,18 @@ hash = "ed1d8f973d1aefaa9a51e6e4f85ee84a7473f54093d58f56185cb00fa88fb3e4"
 metafile = true
 
 [[files]]
+file = "mods/unified-crops.pw.toml"
+hash = "02a5ea65ab2360b2d2cb28f11553f96c86d201dfd37b210e36052b3aab0c0726"
+metafile = true
+
+[[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "8f57bb3968d09e9bc0846f368b565457b951ef1577ad7628a7fc3cf432edc38a"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
+hash = "2c55793a16d42dc2b10b5507c8799a41b42996e84f7be231341d1d79ecbe7881"
 metafile = true
 
 [[files]]

@@ -234,7 +234,6 @@ This is a C
 > - Better Archeology
 > - Corail Tombstone
 > - Loot Integrations
-> - Lootr
 >   - Loot Integrations: Adventure Dungeons
 >   - Loot Integrations: Awesome Dungeon
 >   - Loot Integrations: Better Archeology
@@ -246,6 +245,7 @@ This is a C
 >   - Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures
 >   - Loot Integrations: Randomized Loot compatibility
 >   - Loot Integrations: Structory & Towers
+> - Lootr
 > - Unified Crops
 >
 > 
