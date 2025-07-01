@@ -403,7 +403,7 @@ This is a C
 >
 >
 > ## World Generation
-> - Chunky Player Pause Ⓢ
+> - Chunky Player Pause ⓈⓂ
 > - Nature's Compass
 > - Explorer's Compass
 > - Village Spawn Point
@@ -435,8 +435,9 @@ This is a C
 > - Repurposed Structures
 > - Structory
 >   - Structory: Towers
+> - Tax' Tree Giant
 > - Underground Bunkers
-> - Yggdrasil
+> - Yggdrasils
 > - YUNG's Better Desert Temples
 > - YUNG's Better Dungeons
 > - YUNG's Better Jungle Temples
@@ -452,21 +453,19 @@ This is a C
 > - Dungeon Crawl
 > - Luki's Crazy Chambers
 > - Dimensional Trial Chambers
-> - Repeatable Trial Chambers
+> - Repeatable Trial Vaults
 >  
 > #### Villages
 > - It Takes a Pillage Continuation
 > - Underground Villages
-> - Tax' Deep Villager
 > - Tax' Village Architect
 >  
 > #### The Nether
-> - Awesome Dungeon Nether Edition
+> - Medieval Buildings - Nether Edition
 > - Moog's Nether Structures
 > - YUNG's Better Nether Fortresses
 >  
 > #### The End
-> - Awesome Dungeon The End Edition
 > - Medieval Buildings - End Edition
 > - Moog's End Structures
 > - YUNG's Better End Island
@@ -477,15 +476,12 @@ This is a C
 > 
 > #### The Nether
 > - Basic Nether Ores
-> - BetterNether Ⓕ
 > - Incendium
 > - NetherEx
 >  
 > #### The End
 > - Basic End Ores
-> - BetterEnd Ⓕ
 > - End Remastered
-> - End's Phantasm
 > - Nullscape
 > 
 >  
