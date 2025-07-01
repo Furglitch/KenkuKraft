@@ -339,19 +339,27 @@ This is a C
 > - Create: Bitterballen
 > - Create: Chimneys
 > - Create: Connected
+> - Create Crafts & Additions
+> - Create: Deepfried
 > - Create: Design n' Decor
 > - Create: Dimension, Steamworks Realm
 > - Create: Dragons Plus
+> - Create: Dreams n' Desires
 > - Create Encased
 > - Create: Enchantment Industry
 > - Create: Ender Link
 > - Create: Extended Wrenches
+> - Create: Fishing Bobber Detector
+> - Create: Hypertubes
 > - Create Jetpack
+> - Create: Let The Adventure Begin
 > - Create Mechanical Spawner
 > - Create: Metalwork
 > - Create: Misc & Things
 > - Create: Mobile Packages
 > - Create: New Beginnings
+> - Create Ore Excavation
+> - Create: Oxidized
 > - Create: Pillager Arise
 > - Create: Quality of Life
 > - Create Railways Navigator
@@ -359,23 +367,28 @@ This is a C
 > - Create: Sound of Steam
 > - Create: Structures Arise
 > - Create Stuff 'N Additions
+> - Create: The Factory Must Grow
 > - Create: Trading Floor
 > - Create: Ultimate Factory
+> - Create: Vibrant Vaults
 > - Create: Winery
 >
 > #### Compatibility
 > - Ars Creo
 > - Ars Technica
 > - Create: AE2 Recipes
+> - Create: Central Kitchen
+> - Create Contraption Terminals
 > - Create: Curios Jetpack & Backpack
 > - Create: Filters Anywhere
-> - Create Oritech Compat
-> - Create: Wizardry
-> - Sophisticated Backpacks Create Integration
-> - Sophisticated Storage Create Integration
-> - Create: Central Kitchen
 > - Create: Food
 > - Create: Integrated Farming
+> - Create Oritech Compat
+> - Create: Slice & Dice
+> - Create: Wizardry
+> - EMI: Create Schematics
+> - Sophisticated Backpacks Create Integration
+> - Sophisticated Storage Create Integration
 >
 > ## Transport
 > - Immersive Aircraft

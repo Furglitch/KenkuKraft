@@ -796,8 +796,18 @@ hash = "8701d2de2aed028e47e6281adde0c0582e92518f72eac2e3774093ee6e51b3be"
 metafile = true
 
 [[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "a96c4530432ddf08f92caf52e01d4142b697420d03d9e1e22722bcae7c9a556e"
+metafile = true
+
+[[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "dd3ac8991f2af25de63075a7525233dbb520150f9e8fa342ee8fd8f702e0cafa"
+metafile = true
+
+[[files]]
+file = "mods/create-deepfried.pw.toml"
+hash = "9d78bed31d7f24993c55a96025130de42b290498e6c0bde3f36ce65cbe29c277"
 metafile = true
 
 [[files]]
@@ -813,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "90f38f6a4539b7f69be95865e409157605e7aad6d3a7f673b84f552caec3ccd1"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-desires.pw.toml"
+hash = "8f9e593868b57bbe7c0a1fb34aa23af9c3f923283d9c805b247e732226975468"
 metafile = true
 
 [[files]]
@@ -841,6 +856,11 @@ hash = "e7dfbb1a61caa13de6d039be274dda10ba8a5a933e4241b396555b8982772535"
 metafile = true
 
 [[files]]
+file = "mods/create-industry.pw.toml"
+hash = "a316dc14d1b82880cba98e4517e0a2f5cbcc8a87892ca7c55dde1117e35686c4"
+metafile = true
+
+[[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "e2a194ae67437c92a708f6e548384349f700d5f52249c4f479383cdb3f10b8a4"
 metafile = true
@@ -848,6 +868,11 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "3f6a414a28eb5796fcb963531cada1716e4054acc6b4fa05b08341fc6df0c202"
+metafile = true
+
+[[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "2d25c50feac691050a77679d9799ed047d306226fd7779c0057604113f4d09f6"
 metafile = true
 
 [[files]]
@@ -876,8 +901,18 @@ hash = "eb2756f9aa3f8395c8a1872847c35b434a8786e909ecbacf04b85713c659869b"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "fc8d8e077cc8ee61ab1d1ee76f0b3eb4b62136d68a6cdd0f77cb5291e4af7517"
+metafile = true
+
+[[files]]
 file = "mods/create-oritech-compat.pw.toml"
 hash = "5a7ddfa185f32139c04995ea366941975c7dad3fb8bbd0ab7992b139983093fa"
+metafile = true
+
+[[files]]
+file = "mods/create-oxidized.pw.toml"
+hash = "cde568a867601aaf6b779b6565bf2ed19f127fa1415f8d68f30b25b2dc70de42"
 metafile = true
 
 [[files]]
@@ -926,6 +961,11 @@ hash = "9acc4609af14b66a868a2c7573ddfb1af4c026b477a7e0e7f2973b6d9fe5e8fc"
 metafile = true
 
 [[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "edfc5cfd0224c45873c197c9352eadbe17171f737784581fe32ab963f59f27a3"
+metafile = true
+
+[[files]]
 file = "mods/create-winery.pw.toml"
 hash = "c0ebb8a55e4fd01acc358bf223d4f267dc3ad08f6ca67f1ad7bfb0da6bc0a885"
 metafile = true
@@ -938,6 +978,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "cde09b142a7998957dcf3d1effec07b9563c520e168fc1f63e7750fb7e6f80bb"
 metafile = true
 
 [[files]]
@@ -1063,6 +1108,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
+metafile = true
+
+[[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "b62d5dc22f75254a4033337238df41b6ef638e6a0a4cbb0a919fa9f87d2acf9a"
 metafile = true
 
 [[files]]
@@ -1221,6 +1271,11 @@ hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
 
 [[files]]
+file = "mods/fishing-bobber-detector.pw.toml"
+hash = "076fa5496f2a724cfec0edaaabe02f7f2564be24a0368522846dfa130c442ff5"
+metafile = true
+
+[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
 metafile = true
@@ -1328,6 +1383,11 @@ metafile = true
 [[files]]
 file = "mods/heyberryshutup.pw.toml"
 hash = "bb45fd8d63908c2c96b96d6b863a748b0d673b37310af207bb352c007af05dd0"
+metafile = true
+
+[[files]]
+file = "mods/hypertubes.pw.toml"
+hash = "ec2a139e36bd42e14507bce49710734c2d46f2ec21f5bf47bf04301fc191b9b2"
 metafile = true
 
 [[files]]
@@ -2053,6 +2113,11 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "3da488d70698eb949d7212f4e35cccc89ab2654ccbadd1727bf228d7e2492adb"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "7529bfe7abfa9a0b52b21ac77a9e37b2495666d84b2e3062fe17dcfbf57f3405"
 metafile = true
 
 [[files]]

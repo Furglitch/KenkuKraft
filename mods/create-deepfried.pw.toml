@@ -1,0 +1,13 @@
+name = "Create: Deepfried"
+filename = "create_deepfried-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc1b3acbd7444b7c3711901fac519e0c717608e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6711742
+project-id = 990016
