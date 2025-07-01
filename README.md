@@ -144,7 +144,6 @@ This is a C
 > - OpenBlocks Elevator
 > - FramedBlocks
 > - Handcrafted
-> - Joy of Painting
 > - MineColonies
 >   - Better With Minecolonies
 >   - SmallColonies

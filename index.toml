@@ -1461,11 +1461,6 @@ hash = "448c3e93e0cd1231c129313a82fa2820644f4ebdaa78346bb283dc29acbe9976"
 metafile = true
 
 [[files]]
-file = "mods/joy-of-painting.pw.toml"
-hash = "e969c54f8b34ce0c793672e47ded8de32b40a71f4e9a73ca0947c5ce6390d63f"
-metafile = true
-
-[[files]]
 file = "mods/just-better-recipes.pw.toml"
 hash = "51ea039172465b662b19defa36525f3da23093764ec0e510c3df2f6aeed94937"
 metafile = true
