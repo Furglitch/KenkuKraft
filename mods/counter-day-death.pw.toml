@@ -1,0 +1,13 @@
+name = "Counter (Day & Death)"
+filename = "counter-0.3-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d66156d7d8d2e91a8d8b1a0ac45dcbdc0ebb5dc8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6348001
+project-id = 1214103

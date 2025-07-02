@@ -42,6 +42,7 @@
 > - Better Tooltips Ⓒ
 > - Chat Heads Ⓒ
 > - Cosmetic Armor Reworked
+> - Counter (Day & Death)
 > - Creative Tabs Plus Ⓒ
 > - EMI
 >   - EMI Enchanting
@@ -154,6 +155,7 @@
 >   - Rechiseled: Create
 > - The Block Box
 > - TorchMaster
+> - Underlay
 > - Utilitarian
 >
 > ### Placement
@@ -168,6 +170,7 @@
 > - Another Furniture
 > - Comforts
 > - Etched
+> - Furnitury
 > - Macaw's Suite
 > - MrCrayfish's Furniture Mod: Refurbished
 >   - CFM Refurbished: Circuit Breaker
@@ -281,6 +284,7 @@
 > - Aquaculture 2
 > - Chocco's Mobs
 > - Creeper Overhaul
+> - Crimson Curse: Infection
 > - Enderman Overhaul
 > - Friends & Foes
 > - Hardened Armadillos

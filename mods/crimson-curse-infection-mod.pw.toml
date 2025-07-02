@@ -1,0 +1,13 @@
+name = "Crimson Curse: Infection"
+filename = "crimson_curse-1.2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74cb34c8e4a6d63a9319f85725ba84edc88a20c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6705164
+project-id = 1269860

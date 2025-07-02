@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "TODO.yml"
+hash = "236b250ae54472946f7741b6477b5b0605f917b39d6123a3a6ffbb961177a6fe"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -811,6 +815,11 @@ hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
 metafile = true
 
 [[files]]
+file = "mods/counter-day-death.pw.toml"
+hash = "34151639b308cc3f31c3de4b6179360b362ebe850a1b7fa5ef1192ea8b08f80d"
+metafile = true
+
+[[files]]
 file = "mods/crafting-on-a-stick.pw.toml"
 hash = "c06a4497cf04a51081e3458d408f537d6e5dee211346f89e66c80ecef4eee106"
 metafile = true
@@ -1058,6 +1067,11 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "09f8e2af6cb0a5151a44390389ec62012296ec069dd21eb418079e17b48c2f18"
+metafile = true
+
+[[files]]
+file = "mods/crimson-curse-infection-mod.pw.toml"
+hash = "2b71133fab6c9aa415acd85dd343aa3f674a8e444d6b42ec2f442da8e01422ab"
 metafile = true
 
 [[files]]
@@ -2216,6 +2230,11 @@ hash = "e5a88eeea38105e024dc8c8849e28d90af25cec68f1d0f6716796fe9746bddd2"
 metafile = true
 
 [[files]]
+file = "mods/reeves-furniture.pw.toml"
+hash = "2eb38f0991b977f133f19877c6ea92e2d6e23446d4be94aa2e442b18092b8b2b"
+metafile = true
+
+[[files]]
 file = "mods/reforged-accurate-block-placement.pw.toml"
 hash = "efc2aa72f373c5bcbeeeaab12f7882f86d2ad13ab6f47df71163260681e82b98"
 metafile = true
@@ -2668,6 +2687,11 @@ metafile = true
 [[files]]
 file = "mods/underground-villages.pw.toml"
 hash = "bcfaa72632f6a347f480db3349efc32fa445d9714e864d127097937fef749940"
+metafile = true
+
+[[files]]
+file = "mods/underlay.pw.toml"
+hash = "18dfb34141f78b53601983ffebbf1073f4194f2652f61ad18c909c32410579bc"
 metafile = true
 
 [[files]]
