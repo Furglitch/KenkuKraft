@@ -1,13 +1,12 @@
 # KenkuKraft Modpack
 
-This is a C
 
 <details open>
 <summary>Modlist</summary>
 
 > Ⓒ - Client-Side Only <br/>
 > Ⓢ - Server-Side Only <br/>
-> Ⓕ - Fabric Mod (Sinytra Connector) <br/>
+> Ⓕ - Fabric Mod (via Sinytra Connector) <br/>
 > Ⓜ - Modrinth Mod <br/>
 > 
 > ## Base
@@ -155,7 +154,6 @@ This is a C
 >   - Rechiseled: Create
 > - The Block Box
 > - TorchMaster
-> - Universal Shops Ⓕ
 > - Utilitarian
 >
 > ### Placement
@@ -484,7 +482,6 @@ This is a C
 > - End Remastered
 > - Nullscape
 > 
->  
 > #### New Dimensions
 > - The Aether
 >   - Aether Addon: Overworld Ores
