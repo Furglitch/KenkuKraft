@@ -26,8 +26,65 @@
     - Changes:
         -
 - [ ] **Paxi**
-    - Changes:
-        -
+    - Resource Packs:
+        - **Vanilla+**
+            - Stay True
+            - Noticably Suspicious
+            - Fancy Crops
+        - **Tools**
+            - Obscuria's Tools
+            - AmongstReality's Bow
+            - Easy Pumpkin Overlay
+        - **Items**
+            - Beautiful Enchanted Books
+            - Bibliophilia
+            - Blocky Dragon Egg
+            - Low Fire
+            - Low Shield
+            - MistaThings Groovy Discs
+        - **Interface**
+            - Mandala's GUI - Dark Mode Compat
+            - Mandala's GUI - Dark mode Advancement Plaques Compat
+            - Mandala Iron's Spellbooks Ⓜ
+            - Overflowing Bars + Mandala's GUI Compat
+            - Mandala's GUI - Vending Block Compat
+            - Mandala's GUI - Addons
+            - Mandala's GUI - Dark Mode
+            - Modded Colourful Containers - Dark Mode
+            - Colourful Containers - Dark Mode
+            - Minimalistic Font
+            - Modern Crosshair
+        - **Mobs**
+            - Fresh Animations
+            - Mobs Refreshed
+            - Mobs Refreshed FA
+            - AL's Boss Rush
+            - AL's Boss Rush FA
+            - F.M.R.P
+            - Fresh Moves (with Eyes)
+        - **Mods**
+            - Ars Nouveau Refresh
+            - Ars Nouveau Brass-ified Create Style
+            - Corail Tombstone Redraw
+            - Create Immersive Aircrafts Resource Pack
+            - Create Touch-Ups
+            - Create v6 SolidSails Soft
+            - Create Sophisticated Backpacks
+            - Better SB Updates
+            - Fresh EndRem Textures
+            - Irons Spellbooks Icon
+            - Medieval Style Lootr
+            - Ping Wheel - Portal Sound
+            - Pretty x Smart Pipez Mekanism
+            - Refined Storage - ReCreated
+            - Suren FTB Quests
+            - Suren Sophisticated Storage
+            - Torchmaster Remaster
+            - Twilight JAPPAPack
+            - Updated Aquaculture
+            - Utilitarian Updated
+            - Waystones
+        - KenkuKraft Resources
 
 ## Performance
 
