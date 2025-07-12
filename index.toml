@@ -2715,6 +2715,11 @@ hash = "f19c73f679038cc32cbc3f3cf5047002cea5a3de6cd6afe05cbbbbe01feba7ad"
 metafile = true
 
 [[files]]
+file = "mods/vending-block-restocked.pw.toml"
+hash = "e2cfa9852f9a5670821888631efca2b9e6e48b49506ba970ff7f0721ec023933"
+metafile = true
+
+[[files]]
 file = "mods/vics-point-blank.pw.toml"
 hash = "1afe3f90b42a2e4dce2428ba30f0dc71d3c9b2fe084cfeb50d2c2d0d4f1ea962"
 metafile = true

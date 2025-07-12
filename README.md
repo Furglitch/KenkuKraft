@@ -402,6 +402,7 @@
 > - Bartering Station
 > - Tom's Trading Network
 > - Trading Post
+> - Vending Block: Restocked
 >
 >
 > ## World Generation
