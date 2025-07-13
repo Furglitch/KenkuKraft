@@ -1,9 +1,11 @@
 # KenkuKraft Modpack
 
+Just a repo for managing a modpack I use for friends :)<br/>
+1.21.1 Neoforge (with Fabric support via Sinytra Connector)
 
-<details open>
-<summary>Modlist</summary>
+<br/><br/>
 
+## Modlist
 > Ⓒ - Client-Side Only <br/>
 > Ⓢ - Server-Side Only <br/>
 > Ⓕ - Fabric Mod (via Sinytra Connector) <br/>
@@ -139,7 +141,6 @@
 >
 > ## Building
 > - Compact Machines
-> - Display Case
 > - Double Doors
 > - OpenBlocks Elevator
 > - FramedBlocks
@@ -160,6 +161,7 @@
 >
 > ### Placement
 > - Accurate Block Placement
+> - Bridging Mod
 > - Diagonal Fences
 > - Diagonal Walls
 > - Diagonal Windows
@@ -179,8 +181,6 @@
 > ### Tools
 > - Amendments
 > - Building Wands
-> - Bridging Mod
-> - Construction Sticks
 >
 >
 > ## Combat
@@ -217,7 +217,7 @@
 >   - Storage Delight
 >   - Twilight's Flavors and Delight
 > - Hey Berry! SHUT UP
->
+> - Pam's HarvestCraft 2 Suite
 > 
 > ## Crafting
 > - Crafting on a Stick
@@ -400,7 +400,6 @@
 > 
 > ## Trading
 > - Bartering Station
-> - Tom's Trading Network
 > - Trading Post
 > - Vending Block: Restocked
 >
@@ -433,12 +432,12 @@
 > - Explorify
 > - Hopo Better Ruined Portals
 > - Hopo Better Underwater Ruins
+> - Loot & Explore
 > - Medieval Buildings
 > - Moog's Voyager Structures
 > - Repurposed Structures
 > - Structory
 >   - Structory: Towers
-> - Tax' Tree Giant
 > - Underground Bunkers
 > - Yggdrasils
 > - YUNG's Better Desert Temples
@@ -475,7 +474,6 @@
 >  
 >
 > ### Dimensions
-> - Dimensional Threading Reforked
 > 
 > #### The Nether
 > - Basic Nether Ores

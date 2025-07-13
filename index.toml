@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "TODO.yml"
-hash = "236b250ae54472946f7741b6477b5b0605f917b39d6123a3a6ffbb961177a6fe"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -785,11 +781,6 @@ hash = "179ec97bb6d278f2012c725fdfab2c5b00adb529e4f720587ce6c3409aaa572f"
 metafile = true
 
 [[files]]
-file = "mods/construction-sticks.pw.toml"
-hash = "e6f025549c39ebb106cbdeba42b3a101e40c933e99df939afb0531afe1888f20"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
 metafile = true
@@ -1127,16 +1118,6 @@ metafile = true
 [[files]]
 file = "mods/dimensional-trial-chambers.pw.toml"
 hash = "bcddf4bc1d81386392f83158f26263fadfbc68ecfeccb6f91b421a8b188145c2"
-metafile = true
-
-[[files]]
-file = "mods/dimthreads.pw.toml"
-hash = "b67667c6ec8e3a755c0b05f81930e4f77b5a1269aed6afd4d2ae889ca05ae020"
-metafile = true
-
-[[files]]
-file = "mods/displaycase.pw.toml"
-hash = "bdbe66b6cca11b845bfebac2ce0821b119b8518f6deef8ceb9897bd7df1476f6"
 metafile = true
 
 [[files]]
@@ -2145,6 +2126,26 @@ hash = "cd6bb8ff922137a4afd79710e9082855cdd91e11b5be3678e99accdcd3b7baac"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "a458b9c7c59d3bb36f8f1752ab1e0bc14714d6cd071afcc664459729391a1f35"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "9f50159aae760a20a0157d5af60594aba7c3d36342e746608c7827589fabfd7f"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "5fe860bdef3f16ae211dbe360061f8225b68e3b5a3b699ffeb5d8926536bd91b"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "74054f4e1aaf3508edead0fa6e833b57aec8b5812e85d4d3182a2aaa360c2099"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
 metafile = true
@@ -2550,11 +2551,6 @@ hash = "df4f6913ac46e5cffe4833ebc5a8cf1f91f4d27913c9e7a53969832788130923"
 metafile = true
 
 [[files]]
-file = "mods/tax-tree-giant.pw.toml"
-hash = "be861177329730fe569a342494a8c68af192352732ea7078918c3743f1c58874"
-metafile = true
-
-[[files]]
 file = "mods/taxvillagearchitect.pw.toml"
 hash = "d5f1bb580fffe5bcced377cc08886828f8bebe643f4af1634163bfd8106bb76a"
 metafile = true
@@ -2612,11 +2608,6 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "27f23c2bc5266717f83de1376149ed67107630e0e89f21ec204aa806a448dcfe"
-metafile = true
-
-[[files]]
-file = "mods/toms-trading-network.pw.toml"
-hash = "a3296887ba193a8ac1cf8a1aff4a380e6c053aa5e30026a7987abaab0b2188d3"
 metafile = true
 
 [[files]]
