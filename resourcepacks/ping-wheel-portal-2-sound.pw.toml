@@ -1,0 +1,13 @@
+name = "Ping Wheel - Portal 2 Sound"
+filename = "Ping Wheel - Portal Sound.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H3jiwvCL/versions/x3R85Xs2/Ping%20Wheel%20-%20Portal%20Sound.zip"
+hash-format = "sha512"
+hash = "eb8e59b7c5ac0d412f3806be27ad015574c1f98a746c56c532794a6785eb2a5afccf9c9d6a56c2f1e2de396faf41fe10746a116226d6924c8ed0355237b7a352"
+
+[update]
+[update.modrinth]
+mod-id = "H3jiwvCL"
+version = "x3R85Xs2"

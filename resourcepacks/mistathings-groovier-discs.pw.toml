@@ -1,0 +1,13 @@
+name = "MistaThing's Groovy Music Discs"
+filename = "MistaThings Groovy Discs.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iEDuUtzC/versions/bgEjt073/MistaThings%20Groovy%20Discs.zip"
+hash-format = "sha512"
+hash = "81b0efdfa60aef4e96cf0b0d55e3312746a143308fea6055a97f68b2dc430c32d1156cad2fa16a94eca1d747735c46485376500d604f564fcc074b84b9c1336f"
+
+[update]
+[update.modrinth]
+mod-id = "iEDuUtzC"
+version = "bgEjt073"

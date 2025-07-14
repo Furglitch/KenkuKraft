@@ -1,0 +1,13 @@
+name = "Transparent Pumpkin Overlay - Full Clear Visibility"
+filename = "Transparent Pumpkin Blur.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "515598ea8bd69a9109a54818180f8020e5d47755"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6116045
+project-id = 1176712

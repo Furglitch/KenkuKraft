@@ -1,0 +1,13 @@
+name = "Blocky Dragon Egg"
+filename = "Blocky Dragon Egg 1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79e25e1a94b2ed4b4ba2d8f64d4a7220083d494a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4713427
+project-id = 826187

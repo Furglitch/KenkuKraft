@@ -1,0 +1,13 @@
+name = "Mandala's GUI - Dark mode Advancement Plaques Compat"
+filename = "Mandala's GUI - Dark mode Advancement Plaques Compat 1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9fff14e47111b50714ace6dd91bf60c03a931570"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5886658
+project-id = 1136595

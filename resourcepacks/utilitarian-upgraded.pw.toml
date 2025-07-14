@@ -1,0 +1,13 @@
+name = "Utilitarian Upgraded"
+filename = "Utilitarian Upgraded.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2p3O4VRU/versions/4BwJ333r/Utilitarian%20Upgraded.zip"
+hash-format = "sha512"
+hash = "4ff8b162bb9ed293f2fcafc9276765af8dd7c846ed86292242d46a06af72003455d21fe020403b4bfc654fad5002ae64b2f7eb90ea1a706035fec9093df2bb49"
+
+[update]
+[update.modrinth]
+mod-id = "2p3O4VRU"
+version = "4BwJ333r"

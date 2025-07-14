@@ -14,19 +14,19 @@
     - Resource Packs:
         - **Vanilla+**
             - Stay True
-            - Noticably Suspicious
+            - Noticably Suspicious Ⓜ
             - Fancy Crops
         - **Tools**
             - Obscuria's Tools
             - AmongstReality's Bow
-            - Easy Pumpkin Overlay
+            - Transparent Pumpkin Blur
         - **Items**
             - Beautiful Enchanted Books
             - Bibliophilia
             - Blocky Dragon Egg
             - Low Fire
             - Low Shield
-            - MistaThings Groovy Discs
+            - MistaThings Groovy Discs Ⓜ
         - **Interface**
             - Mandala's GUI - Dark Mode Compat
             - Mandala's GUI - Dark mode Advancement Plaques Compat
@@ -37,7 +37,7 @@
             - Mandala's GUI - Dark Mode
             - Modded Colourful Containers - Dark Mode
             - Colourful Containers - Dark Mode
-            - Minimalistic Font
+            - Minimalistic Font Ⓜ
             - Modern Crosshair
         - **Mobs**
             - Fresh Animations
@@ -46,29 +46,28 @@
             - AL's Boss Rush
             - AL's Boss Rush FA
             - F.M.R.P
+            - Fresh Aether
             - Fresh Moves (with Eyes)
         - **Mods**
             - Ars Nouveau Refresh
             - Ars Nouveau Brass-ified Create Style
-            - Corail Tombstone Redraw
+            - Corail Tombstone Redraw Ⓜ
             - Create Immersive Aircrafts Resource Pack
+            - Create Lootr
+            - Create Sophisticated Backpacks
             - Create Touch-Ups
             - Create v6 SolidSails Soft
-            - Create Sophisticated Backpacks
-            - Better SB Updates
             - Fresh EndRem Textures
+            - Fresh Waystones
             - Irons Spellbooks Icon
-            - Medieval Style Lootr
-            - Ping Wheel - Portal Sound
-            - Pretty x Smart Pipez Mekanism
-            - Refined Storage - ReCreated
+            - Oritech Laboratory
+            - Ping Wheel - Portal Sound Ⓜ
+            - Pretty x Smart Pipez
             - Suren FTB Quests
             - Suren Sophisticated Storage
             - Torchmaster Remaster
-            - Twilight JAPPAPack
             - Updated Aquaculture
-            - Utilitarian Updated
-            - Waystones
+            - Utilitarian Updated Ⓜ
         - KenkuKraft Resources
 
 ## Performance

@@ -1,0 +1,13 @@
+name = "Mandala Iron's Spellbooks"
+filename = "Mandala-IronsSpellbooks-v0.1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YMFD2WT6/versions/oOelfZ4t/Mandala-IronsSpellbooks-v0.1.0.zip"
+hash-format = "sha512"
+hash = "e0b39d22cb161b197ad49d13a821e9135e4e87e80ab3e64fceb1dd5e16bffd6ab498ae79efc05e2ec7f8219c7a0212847054ef854d78c71fc46a79a667a658da"
+
+[update]
+[update.modrinth]
+mod-id = "YMFD2WT6"
+version = "oOelfZ4t"

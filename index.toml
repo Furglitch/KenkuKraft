@@ -209,6 +209,246 @@ file = "config/neruina.json"
 hash = "29e73ae1075a5d9f61394a353e60ba84c5c801e511105f2400e0d4ba66a9bf76"
 
 [[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d3bab72ff9ec981258b6201cf3cfbb3154024c069eb425efc9ed0ca1dc92d95e"
+
+[[files]]
+file = "config/paxi/resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
+hash = "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7"
+
+[[files]]
+file = "config/paxi/resourcepacks/AL's Boss Rush 1.2.zip"
+hash = "a8d545937753c9c6779eabef159ca03fd39aa1ac39fc7dfb8f947f78b6df4299"
+
+[[files]]
+file = "config/paxi/resourcepacks/AL's Boss Rush+FA 1.2.zip"
+hash = "f261104df6bf804d6248192d6434fd80cbdb31ce122bc971f31dac391be2215a"
+
+[[files]]
+file = "config/paxi/resourcepacks/AmongstReality's Bow 1.20.2-1.21.x.zip"
+hash = "778f079b4e7fa1ae7b31e894f87f27f0eaa5082c644df60e3217fecd4d702a6c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Ars Nouveau Refresh 1.2.0.zip"
+hash = "5752ab75d299483a911ca7ad6d6efe7627a8a4e70a5d896d336daf7b7c7a8f07"
+
+[[files]]
+file = "config/paxi/resourcepacks/Ars-Nouveau-Brass-ified-Create-Style---ANBICS.zip"
+hash = "fcb8e1d0df0d4b181104d041af95b6db8bf240f3a837833594b2f74eb230d3ce"
+
+[[files]]
+file = "config/paxi/resourcepacks/Beautiful Enchanted Books - MC 1.21.1 - 7.0.0.zip"
+hash = "38fe25be53b121ce788024215cc396173f87c58ca74833561554e5f279d0986f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Bibliophilia 1.15 (1.21.1).zip"
+hash = "5a2431c6cb01419fc22541849ac99119a5f920ae0180f136cc175072d74d6e4c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blocky Dragon Egg 1.20.1.zip"
+hash = "eb9d46a878107853d2bc0b74125df447715ee78eed572ebb7a0428850e623205"
+
+[[files]]
+file = "config/paxi/resourcepacks/Corail Tombstone Redraw.zip"
+hash = "9817ed1d690d93206f563593dc8bf79d01742b66a3042cee1032cb15de45f2ba"
+
+[[files]]
+file = "config/paxi/resourcepacks/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip"
+hash = "5cea67204fb10f4c1b41b1d43b4638074d746cdbff4a90c96e80d20386ea3cb8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Create LootR Chest.zip"
+hash = "04bfc424629cbbeeb0d2cfa88cfee388da893b84f55906aba2e8f8136368941c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Create Touch-Ups v1.0.zip"
+hash = "81a09a53dcbc45ea8f7be88a7e88abe798ed0ae7895f88b1c2e693ed69b8fae5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Create v6 SolidSails Soft.zip"
+hash = "b2c9c309d1fc85a182bede8d3c7a790bb0534dd676f37da657da432b1531cd20"
+
+[[files]]
+file = "config/paxi/resourcepacks/CreateSophisticatedBackpacks.zip"
+hash = "546f5ab2d4d561e28f3366d84626ab392a750de151eec51b5a524fe48f396ec9"
+
+[[files]]
+file = "config/paxi/resourcepacks/FMRP 1.6.3 Beta.zip"
+hash = "17283b1bb2d3ebe982a1bb916e8b659c76cf963d8af9287f488df70dd469f738"
+
+[[files]]
+file = "config/paxi/resourcepacks/Fancy Crops v1.1.zip"
+hash = "00bcc644350e2d5c5fdc0482fd7e66489c718c5e3d6ac823fd00e0563c134450"
+
+[[files]]
+file = "config/paxi/resourcepacks/Fresh Aether 1.2.zip"
+hash = "7e8cc357806fdcb98cc4822233ffae330ece9f4006f6a3195a35e90b757c6056"
+
+[[files]]
+file = "config/paxi/resourcepacks/FreshAnimations_v1.9.2.zip"
+hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Irons Spellbooks Icon.zip"
+hash = "49778cf53e217d43812a136c104b84a2afb500e902f88b69bb10c7a7c53e81bc"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/game/end/credits.ogg"
+hash = "63923f95e754df84353dc7556a9ef06720061434f1a2c94f19d892e2ec1f0d89"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/credits.json"
+hash = "220258dd169da06be297eedcc2460c25c810371dae354b26f5048262ee0ce44a"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/end.txt"
+hash = "4ceaadf51f9c2705d70c9cf337a6fdb3eab155ef75a312c28ee0cd5bb078de4e"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/postcredits.txt"
+hash = "55022cd988548561902d735ee0cc75b41cd8d455d30a08e12f578acc5aa3f632"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/texts/splashes.txt"
+hash = "8a7d2c7ca8e32cecd9f18e975d35eaf35e567467a1599dc8e2347821fc3c26e7"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/edition.png"
+hash = "1ae2fabb1fab3f34fa135c0425ff32f74021df6b58f49aca8604fa93cb749bb1"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "0666842eb53151aa14e90bbd24dc7d268f6c9ef0d0dce4fa5130cd89eadc7d41"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/pack.mcmeta"
+hash = "3e5abf5e8d19d1018a6f3ae644765c466b5fe7e05f6692685f6866fa995a3534"
+
+[[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/pack.png"
+hash = "48a45ff6c71654f8279c83994b0766b11c7ff531ca8420c31cbe20e899fda9f4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Low Fire.zip"
+hash = "fd19a6e94de111070e92a908b4215b79fd73ba2003bb5f3f734ac944a5a4a9d9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Low Shield.zip"
+hash = "46e369ff787d092e04bd532a5cc9503f5d3fa8fcaa576a0c4d89e24d095023e2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Mandala's GUI - Dark Mode Compat 0.3.1.zip"
+hash = "636360f61edafac38eb925e3d46e7ba72c3a118d5b167f3ead1d5f34898b6314"
+
+[[files]]
+file = "config/paxi/resourcepacks/Mandala's GUI - Dark mode Advancement Plaques Compat 1.0.zip"
+hash = "7b681a763984242cb4693a8278df01fdf6d137cf46f26166000aa58d7e5762e3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Mandala-IronsSpellbooks-v0.1.0.zip"
+hash = "182c0e0128560a7d7f116f6f7c06ae20ddee70e82e530bf93541aa689f1b5fcc"
+
+[[files]]
+file = "config/paxi/resourcepacks/MandalasGUI+Dakmode_1.21.6_v2.0.zip"
+hash = "b78848fbd262136b0375aa992e8d8208e8ecc3d1eb0e0c267778151c5ded2659"
+
+[[files]]
+file = "config/paxi/resourcepacks/MandalasGUI-Dark-VendingBlock.zip"
+hash = "4cf8ef479a504fa0df8a17b0afc3534c6b7f82bae455f9a6585685f69dfde422"
+
+[[files]]
+file = "config/paxi/resourcepacks/MandalasGUI_AddOn+DarkModded_V3.7.zip"
+hash = "1f72c0818c843e89f8d388839637f2f64a8c7172706c600af5c4cd05b8e1186b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Minimalistic Font.zip"
+hash = "674af84ee20dced4a71a0339ec05b72c49531ae51ca9ecd93cc5826290486c6a"
+
+[[files]]
+file = "config/paxi/resourcepacks/MistaThings Groovy Discs.zip"
+hash = "cfcd08a227bd2a7c766aa35885ce82d7fdf76cc97781eea0a25649a79c95fd1a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ModernCrosshair.zip"
+hash = "4f3c08604095dfb2f9310b931fc7d697269951ae8d4c036636e1fbaefade8c78"
+
+[[files]]
+file = "config/paxi/resourcepacks/Noticably Suspicious.zip"
+hash = "72d93676d19cc1115250afb17cfad13a0535040219ce8ea5959f267ad4bca37d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Obscuria's-Tools-1.19.zip"
+hash = "ea9fd75ab9054e8058afa62a18b9718d804d3d31f04b94b60d3867dd8c42ac33"
+
+[[files]]
+file = "config/paxi/resourcepacks/OritechLab.zip"
+hash = "6f22b9ac443327ceb759de38ed0f9ebeae32af154e3c1f4cfb3a8b48542a26ad"
+
+[[files]]
+file = "config/paxi/resourcepacks/OverflowingBarsMandalaGUI.zip"
+hash = "360a1cf2944c532a4f75795492cd0726b716517da18b7ddf2ebc1fd18c10361f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Ping Wheel - Portal Sound.zip"
+hash = "e86dd9f7e3580f67656e610d75792704673aab4995b7a25e82f5924db7fec72a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Pretty X Smart Pipez.zip"
+hash = "b951f9465fd0b4d04bcf2addbef8f26f157d20c79e7aa98d3333e3e8d65a08ed"
+
+[[files]]
+file = "config/paxi/resourcepacks/Stay_True_1.21.zip"
+hash = "4ba60e5e757d90386f94a37964fef50b1d02bc4987d8cbeb77f47c0f1eeadf4c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Suren FTB Quests 1.0.1 1.21.1.zip"
+hash = "bc5887f1b591e2045383f2b8ab55d82d1d2df83e2c95e6f50a26eb407d645e82"
+
+[[files]]
+file = "config/paxi/resourcepacks/Suren Sophisticated Storage v2.0.0 1.21-1.21.1.zip"
+hash = "4bd52faf14569a3d93fbf78e6c22f959c1dabc5d80a522cbe9bcc64dd801738a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Torchmaster Remaster.zip"
+hash = "443cf04aeae1a64924cba8e9a1a0851222b9257dff2c86f0b6bb5a943546461e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Transparent Pumpkin Blur.zip"
+hash = "ba50d83d9d6ef9da429ccedea87243f89adee8050c4b8e9234245a6dc8af9810"
+
+[[files]]
+file = "config/paxi/resourcepacks/Utilitarian Upgraded.zip"
+hash = "562930d6acc4b9201b90eb32c855a781c0630cd340b2758c8f8c54cdf4cd2c13"
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-endrem-textures.zip"
+hash = "c908f02576eafdeda58fe12b779b70a612a5a7bdf214dd14355903f46f4a116b"
+
+[[files]]
+file = "config/paxi/resourcepacks/mobs-refreshed-fa-v2.2.zip"
+hash = "f5386f79e98c7f82a8ee78c535b4b4c3ffd704cc1a3f01f4e7431368aeaff2e4"
+
+[[files]]
+file = "config/paxi/resourcepacks/mobs-refreshed-v2.2.zip"
+hash = "c9dc50a92c854a00d28a396a2befdc2c6d923c07149a800bec26e0ec608e0c73"
+
+[[files]]
+file = "config/paxi/resourcepacks/updated_aquaculture-1.1.zip"
+hash = "1a2f6758a475656779e50b4b60ff880efe2f5d7ab9b81a276400b7a65234a133"
+
+[[files]]
+file = "config/paxi/resourcepacks/waystones_1.21.6.zip"
+hash = "587c8ad66fe82ed642f24201ba4878b1aabf981aeb948aa3f17842bfa964216b"
+
+[[files]]
+file = "config/paxi/resourcepacks/§5§lModded §f§lContainers §8§lDark§8.zip"
+hash = "ee11b48376da55640c007911d93f018ea36297075218c93b5b26a931117e8712"
+
+[[files]]
+file = "config/paxi/resourcepacks/§8§lDarkmode §f§lColourful Containers§8.zip"
+hash = "63f25a2d90a0294791a9060f7c9edcbc016a95cf76a7ad7857e4364cc1adec7f"
+
+[[files]]
 file = "config/placebo.cfg"
 hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
 
@@ -1356,11 +1596,6 @@ hash = "2ebcb9f608126f5516f2bc67ab3623859819b25ec34beabfc844f11efe11a421"
 metafile = true
 
 [[files]]
-file = "mods/farmers-cutting-twilight-forest.pw.toml"
-hash = "bacccc035c065405ea03826be6bbcad6e65f6622584109af3108cedaa7df1b7f"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "94a3f62be55b8772c8d3259cfaa6d42ff38137d5835fe5b56a96c114e169b8ac"
 metafile = true
@@ -2156,6 +2391,11 @@ hash = "3581c37e3c9c7cdd1150bb7ad7e47e3e8107914a5cd9113ddfa74ff2f8b8e09a"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "4307d9c3e3077c7dbdb3f3d60e86da43a6668b5cdfe35625859038ac52ac6694"
+metafile = true
+
+[[files]]
 file = "mods/pipez.pw.toml"
 hash = "1bb1904689ab102397544b9234eaaad105b60b865e571139d3b3c971dc03cc2b"
 metafile = true
@@ -2268,11 +2508,6 @@ metafile = true
 [[files]]
 file = "mods/reliquified-l-ender-s-cataclysm.pw.toml"
 hash = "e4b470a28aa9e3eb89d3f9ad072bbc3299b58105325b2ba5ba6de3bd975d87cc"
-metafile = true
-
-[[files]]
-file = "mods/reliquified-twilight-forest.pw.toml"
-hash = "df133563d15a5c76c99d4284b11a434557581534fec21338b81d3876d5183324"
 metafile = true
 
 [[files]]
@@ -2586,11 +2821,6 @@ hash = "c8642cf1ac15e24a81e162845554b22ad392989e3045cf4966085ffaf48c5071"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
-metafile = true
-
-[[files]]
 file = "mods/time-on-display.pw.toml"
 hash = "c90a1540ee877c337ad39079fd2e36a16e6bf1b768f8598938baf0eb9dce0422"
 metafile = true
@@ -2648,16 +2878,6 @@ metafile = true
 [[files]]
 file = "mods/tundra-dragon-dragon-survival-add-on.pw.toml"
 hash = "6d343c12eaca81f4d6c0e6f02c4b5952fb44328335f488dd784c7b58832acbae"
-metafile = true
-
-[[files]]
-file = "mods/twilight-forest-final-boss-remake.pw.toml"
-hash = "eea462c0a64299117490d56ee24344e57c73bdcc3e1c2f47dbb8e491d9367737"
-metafile = true
-
-[[files]]
-file = "mods/twilights-flavors-delight.pw.toml"
-hash = "93f15daf2f5a528843da24bd68ecff42bf266e8f32f3697ae177a9bdd2ac6a25"
 metafile = true
 
 [[files]]
@@ -2818,4 +3038,253 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-neoforge.pw.toml"
 hash = "15c30a404bc24e1806a780ae83e5a7364d04fac86e2ec448a1a44342935ef0da"
+metafile = true
+
+[[files]]
+file = "resourcepacks/MandalasGUI-Dark-VendingBlock.zip"
+hash = "4cf8ef479a504fa0df8a17b0afc3534c6b7f82bae455f9a6585685f69dfde422"
+
+[[files]]
+file = "resourcepacks/als-boss-rush-x-fresh-animations.pw.toml"
+hash = "d00268b4d83335336737cc42bb3f75c8728dcd323742746726f14ae20a39b796"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-boss-rush.pw.toml"
+hash = "681f8a5605214466b627bad6066a752c3858a8d8f1e8e0d96d775e1ef44e1775"
+metafile = true
+
+[[files]]
+file = "resourcepacks/amongstrealitys-bow.pw.toml"
+hash = "15ecafcedb5cf590f8d72b35cfdedb66559301d55d36c4a9143da708769032bd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/aquaculture-updated.pw.toml"
+hash = "8173bfa1aa1779f5a468e1314a86549d6e14b8dc4c70a02fcbd81f8ec07a2567"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ars-nouveau-brass-ified-create-style-anbics.pw.toml"
+hash = "6b18a1b6b0829c6c8309dac3b354c74039c499af9f5ca81ceae01983c25715f9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ars-nouveau-refresh.pw.toml"
+hash = "a80d5c72df1b9561b934d8a408aa2f280d325d0ef6a8c64c0603c5d0f8cf97ac"
+metafile = true
+
+[[files]]
+file = "resourcepacks/beautiful-enchanted-books.pw.toml"
+hash = "ba6e404e515bce421e85b3e85475f92747f5395949de33f48895aa2b5d99478b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bibliophilia.pw.toml"
+hash = "dc56719022e91246408d94cb3ed226159043892c8f824b8ee52a4c28e18d7c34"
+metafile = true
+
+[[files]]
+file = "resourcepacks/blocky-dragon-egg.pw.toml"
+hash = "940223a7d3c6e255f3c8d25505ced1a827e5939d26ddc4bc5784a6c970f09d2b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-dark-mode-gui-modded-compat.pw.toml"
+hash = "12932aedfd5fc48a61bfac0505ead8a49191c7bd945263b135130bc1e9720ee9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-dark-mode-gui-optifine.pw.toml"
+hash = "ff337ba41cc9a1b99862f8b4ca264202e0415f4b4a563a3c6e7eb4fe874b69d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/corail_tombstone_redrawn.pw.toml"
+hash = "d06f70f5329c51b540652fe29a5f8d66ac8ddd711a3b45f5e3fb748fd3c9d4fe"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
+hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-lootr.pw.toml"
+hash = "5736ae114ce1c28bf4b03cf8228277758c08be8bbb2caa7d0977c9b1020603bc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "9894340781fca02078877ff3ee942b1a66e5387aedab8a0d99ab69f4904cf0c5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-touch-ups.pw.toml"
+hash = "1de28a6963cf2ab88c1819f73bb8aba04f71ba6a154c86efaf6c4a23b373e841"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-v6-solidsails-fps-with-shaders-create.pw.toml"
+hash = "1f8abf333c965a6bfa9526e2b81e79e479267f0620c00ae0a1a204979f3141c8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "383afa3518347a78e9777d46cadcbc814c1b53c385afed077bcdb4386bf50724"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-aether.pw.toml"
+hash = "17609d3a60a6a75441443085ec0afe090a1df523ce11768ecf53f79a72294734"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-endrem-textures.pw.toml"
+hash = "9efe0a7efb69fe28cfb80335ad0d98dec48bd04a11bbb5aa85b3584e87ab7f28"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-moves.pw.toml"
+hash = "d22bff8a4ecb807d779784716ad315466778d0457b0d734eeeb6ff7f5a296a3f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-waystones-texture.pw.toml"
+hash = "6d76833213b9d6cf30b1d4095d8c71ea00003eff1c7a3518cf0c575f4c6eaf0e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/freshly-modded.pw.toml"
+hash = "6f9e707a92c64c5bf6fb4a0e1b9128d7db99cdb98f0d0461fda03a346d560de6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/irons-spells-n-spellbooks-icons.pw.toml"
+hash = "45d00841e8f68bca3eb6715b700d99a9e62fe44850bd4f1e53d3269d7d08c8ab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-fire.pw.toml"
+hash = "8fee18caf7da815fee168ef51c9be09d8c7298be5f5d3312297c6cbee742443f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-shield.pw.toml"
+hash = "a30043eeb4220c8d93fd7f3bbd9e87d4b173815dd3b99506f9354af6315cdd2b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandala-irons-spellbooks.pw.toml"
+hash = "dcb5bc1a4367f14decf1958437594b4ae1642601c1ff34eca6f1b48caf85c609"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-add-ons.pw.toml"
+hash = "8ea0c0621a3dc02c095e534145fe285798f55ecde4c0c7c145a2a96f3d23529f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode-advancement-plaques-compat.pw.toml"
+hash = "12def1ec6550ed5647ec1f3494c5e3f7711816a4f93a9b282a42e9bd0c61cd4c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "7004a1a72df5489fc33f22be8d5afac7b2bfa8d57c83122ef3f167737b69d759"
+metafile = true
+
+[[files]]
+file = "resourcepacks/minimalistic-font.pw.toml"
+hash = "400bb8183aa64db0df7bb6ea144b2327ecabf8926601b3e7cbd9541ebe81514b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mistathings-groovier-discs.pw.toml"
+hash = "4bd27ff874ff1638aafee11da6678fb0a3d2a96e31f1d36aa9ac819497151aa7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mobs-refreshed-fresh-animations.pw.toml"
+hash = "0a87d721c5071d605cd861e5de1213b13bce035504a1c353694deca193b8ffea"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mobs-refreshed.pw.toml"
+hash = "c539e37f2aa8cc92046567f13637b00e8dedb5a672a5b7c3cda681fa5c305230"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modern-crosshair.pw.toml"
+hash = "40070e3e787e21e843e9230bed0234736403b3ee7edb4c1a51c4631680b01c46"
+metafile = true
+
+[[files]]
+file = "resourcepacks/noticably-suspicious.pw.toml"
+hash = "c4f22f6ba43f989f4e0068083045ca758b48462ee5b9dc95570046fc794b71f0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/obscurias-tools.pw.toml"
+hash = "8e3af7ecaffb8ba672509d2ebb6661e20b8189faf44a5643a4e312457516aa49"
+metafile = true
+
+[[files]]
+file = "resourcepacks/oritech-laboratory.pw.toml"
+hash = "b20ab2f8016601bff9fa9c4426d3bb0f1b4430f52177417f640ea2b55c147eee"
+metafile = true
+
+[[files]]
+file = "resourcepacks/overflowing-bars-mandalas-gui-compat.pw.toml"
+hash = "e1267e5f9a29aee4d2f3585a8c73b494e301a6f706ac9ccc0f46b1b08357fd31"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ping-wheel-portal-2-sound.pw.toml"
+hash = "53edf7da8d5919fa3d6f7865a3feedd0e7bacc7526ae807ddeef32add91fa0a8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pretty-x-smart-pipez.pw.toml"
+hash = "75b811a77e333696a0b8eafc723ae206ede852c880c89cb4a0eacebb45deba86"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "e53a1e480f2a8051cc6581a0d7323fb3b31c317562caa12c37eab9e952cc9300"
+metafile = true
+
+[[files]]
+file = "resourcepacks/suren-ss.pw.toml"
+hash = "4793da32d65415ce11eaf080236ccdbbceee3f96ef31a816ad0579baf48a664f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/surens-ftb-quests.pw.toml"
+hash = "cf16a33dff5a0a53d6388fc05eba6f5be69dd841056b465490b1675d03d97ccb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/torchmaster-remaster.pw.toml"
+hash = "4415898f4f842c2a9c12a47d6d51d4b7a3bf914a54c6b8c957f99af9c069b1ef"
+metafile = true
+
+[[files]]
+file = "resourcepacks/transparent-pumpkin-overlay.pw.toml"
+hash = "b5b9e7d1316427df911d8db8d1f35ac6cff3a93d85b5bc8d18fbe639a8a1702f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unofficial-mandalas-gui-dark-mode-mod.pw.toml"
+hash = "9da31afa22efcca60d4c6fb911c2aa88818b79bb42a11030fb2435f40e1c9a0a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/utilitarian-upgraded.pw.toml"
+hash = "9a2b4e03c4f5b99ff4f79e226632873db824d725977fd3857957c9dedbbacd30"
 metafile = true

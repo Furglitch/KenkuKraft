@@ -135,7 +135,6 @@ Just a repo for managing a modpack I use for friends :)<br/>
 >   - Relics: Artifacts Compat
 >   - Reliquified Ars Nouveau
 >   - Reliquified L_Ender's Cataclysm
->   - Reliquified Twilight Forest
 > - MinecraftCapes Ⓒ
 > 
 >
@@ -207,7 +206,6 @@ Just a repo for managing a modpack I use for friends :)<br/>
 >   - Farmer's Cutting: Oh The Biomes We've Gone
 >   - Farmer's Cutting: Regions Unexplored
 >   - Farmer's Cutting: The Aether
->   - Farmer's Cutting: Twilight Forest
 >   - L_Ender's Cataclysm Delight
 >   - More Delight
 >   - My Nether's Delight
@@ -215,7 +213,6 @@ Just a repo for managing a modpack I use for friends :)<br/>
 >   - Repurposed Structres - Farmer's Delight Compat Mod
 >   - Rustic Delight
 >   - Storage Delight
->   - Twilight's Flavors and Delight
 > - Hey Berry! SHUT UP
 > - Pam's HarvestCraft 2 Suite
 > 
@@ -255,7 +252,7 @@ Just a repo for managing a modpack I use for friends :)<br/>
 >   - Ars Artillery
 >   - Ars Elemental
 >   - StarbuncleMania
-> - Dragons Survival
+> - Dragon Survival
 >   - Additional Dragons
 >   - Aether Dragon
 >   - Dragon Survival - Griffin Addon
@@ -492,8 +489,6 @@ Just a repo for managing a modpack I use for friends :)<br/>
 >   - Deep Aether
 > - Deeper and Darker
 > - Just Another Void Dimensions
-> - Twilight Forest
->   - Twilight Forest Final Boss (Remake)
 >
 >
 

@@ -1,0 +1,13 @@
+name = "Noticably Suspicious"
+filename = "Noticably Suspicious.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EWEpcxZX/versions/CCUGxa4u/Noticably%20Suspicious.zip"
+hash-format = "sha512"
+hash = "ad539972168f45ef8ddfc839a8ca3793f2316f8117e575ead452cfa035819b66d667c21e78ca90a87247e2599348790e173fd13cdf2a1e28fdead10a5be98553"
+
+[update]
+[update.modrinth]
+mod-id = "EWEpcxZX"
+version = "CCUGxa4u"
