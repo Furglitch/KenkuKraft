@@ -1,0 +1,13 @@
+name = "Loot & Explore"
+filename = "loot_n_explore-1.0.11-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "068ca76fa18f8f5081dcc5082a3aac2768ef0201"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6665980
+project-id = 1148917

@@ -23,12 +23,6 @@ Just a repo for managing a modpack I use for friends :)<br/>
 >
 > 
 > ## Modpack Development Tools
-> - KubeJS
->   - KubeJS Curios
->   - KubeJS Mekanism
->   - KubeUtils
->   - LootJS
-> - Mob Control
 > - Sinytra Connector
 > - Structurify
 > - Paxi
