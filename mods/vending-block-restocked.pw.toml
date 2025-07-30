@@ -1,13 +1,13 @@
 name = "Vending Block: Restocked"
-filename = "vendingblock-1.21.1-1.1.1.jar"
+filename = "vendingblock-1.21.1-1.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3d74a50eb5bdb09f41cf52ae26749f33175d850c"
+hash = "0b078cfac8ed94dadfb58a4bf9be2755cccde12f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6758028
+file-id = 6825988
 project-id = 1303833

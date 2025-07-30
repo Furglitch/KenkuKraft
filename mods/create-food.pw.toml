@@ -1,13 +1,13 @@
 name = "Create: Food"
-filename = "createfood-neoforge-1.21.1-2.0.0-beta-2.jar"
+filename = "createfood-neoforge-1.21.1-2.0.0-beta-3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7a3bd48560a9e64a738a612f145680ed51667016"
+hash = "d865b6a64ff1e662564cdb00f288fcdbdfe8ae0a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6607000
+file-id = 6741509
 project-id = 959439

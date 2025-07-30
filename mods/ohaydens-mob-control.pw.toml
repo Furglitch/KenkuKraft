@@ -1,13 +1,13 @@
 name = "Mob Control: Add custom AI, break blocks, regrowth, spawners, plus more! Bad mobs? Block them! You're in control of your mobs!"
-filename = "mobcontrol-1.21.1-1.5.6.jar"
+filename = "mobcontrol-1.21.1-1.5.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "98b1952b07e8cbec3b14581a9ed3ff732573f185"
+hash = "66fc9050a72e9fc3c3b0d498f74c4e0f131b69f1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6707992
+file-id = 6757697
 project-id = 1261370

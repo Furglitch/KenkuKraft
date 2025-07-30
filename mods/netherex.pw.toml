@@ -1,13 +1,13 @@
 name = "NetherEx"
-filename = "NetherEx-neoforge-1.21.1-1.2.0.jar"
+filename = "NetherEx-neoforge-1.21.1-1.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4680eaea9c5534a890d8983a63f52c459c18a6b6"
+hash = "66b75ab8616da84979d81eb159c327d4ca84d5b1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6555054
+file-id = 6815894
 project-id = 248039

@@ -1,13 +1,13 @@
 name = "Blur+"
-filename = "blur-neoforge-5.0.0+1.21.jar"
+filename = "blur-neoforge-5.2.2+1.21.1+1.21.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "1bdf071481d183092f1a6e27049faf3a73352b4d"
+hash = "d4f5c44987580815c7f099ffe5a4de7a66bb7bfb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5698970
+file-id = 6772409
 project-id = 393563
