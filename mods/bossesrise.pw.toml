@@ -1,0 +1,13 @@
+name = "Bosses'Rise"
+filename = "block_factorys_bosses-1.0.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "306510187df9a03e9f10d62d887fce0c1433a6fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6824546
+project-id = 1314084

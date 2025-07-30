@@ -1404,6 +1404,11 @@ hash = "72b8637f99298483016f7f7acc075462a88bbd60ef1b8b62a6c5eaf533bb8a82"
 metafile = true
 
 [[files]]
+file = "mods/bossesrise.pw.toml"
+hash = "5514021cdf2aab3af756db8aee4d1ce76ca1a809f79af1cf8de6ba9d93a1ffce"
+metafile = true
+
+[[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "e5c9649e2e622248382ac05979512e14e652b32fe31e592db3b4aef9fc2a9488"
 metafile = true
