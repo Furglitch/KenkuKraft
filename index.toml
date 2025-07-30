@@ -618,7 +618,7 @@ hash = "5aad4620aa2b36c6c4b3c8528ae3edfe2d0451eab887989b249d37273af63289"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "8fb907f3e3c7556918ae64a171f10365fea194c97459307b5c5bb79775143cd5"
+hash = "51b724bc2a4a7d481b9bd428f10c04b73618955c6fd9a4bf8a870ce030655cac"
 
 [[files]]
 file = "config/paxi/resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
@@ -855,6 +855,10 @@ hash = "ee11b48376da55640c007911d93f018ea36297075218c93b5b26a931117e8712"
 [[files]]
 file = "config/paxi/resourcepacks/§8§lDarkmode §f§lColourful Containers§8.zip"
 hash = "63f25a2d90a0294791a9060f7c9edcbc016a95cf76a7ad7857e4364cc1adec7f"
+
+[[files]]
+file = "config/paxi/resourcepacks/§b§lVanilla Experience+§0.zip"
+hash = "f5322c1ae5659f7f4bdae019240e10e2dea2d0ea7e3d8259dd4f0ddad9f64376"
 
 [[files]]
 file = "config/placebo.cfg"
@@ -3784,4 +3788,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/utilitarian-upgraded.pw.toml"
 hash = "9a2b4e03c4f5b99ff4f79e226632873db824d725977fd3857957c9dedbbacd30"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-exp.pw.toml"
+hash = "2491497bff689820cf6420ac7d5a413d04ea228f5642eef68b89acc3acfb5f61"
 metafile = true
