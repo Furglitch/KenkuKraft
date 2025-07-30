@@ -182,9 +182,9 @@
 
 ## Building
 
-- [ ] **Compact Machines**
+- [X] **Compact Machines**
     - Changes:
-        - ? Rename Personal Shrinking Device to Player Compression Device
+        - Rename Personal Shrinking Device to Player Compression Device
 - [X] **MineColonies**
     - Changes:
         - Disable citizen voices

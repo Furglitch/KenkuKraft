@@ -701,6 +701,10 @@ file = "config/paxi/resourcepacks/Irons Spellbooks Icon.zip"
 hash = "49778cf53e217d43812a136c104b84a2afb500e902f88b69bb10c7a7c53e81bc"
 
 [[files]]
+file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/compactmachines/lang/en_us.json"
+hash = "4b7f1781df7a6b4814b0cb8ecefe4a181e1036cbb6d3ce009d008e5b0da6836a"
+
+[[files]]
 file = "config/paxi/resourcepacks/KenkuKraft Resources/assets/minecraft/sounds/music/game/end/alpha.ogg"
 hash = "63923f95e754df84353dc7556a9ef06720061434f1a2c94f19d892e2ec1f0d89"
 
