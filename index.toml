@@ -2094,6 +2094,11 @@ hash = "98ff5eb507bb2485a3bfcb4757f0620812e7f8dca085ed11978bce30e763d6d0"
 metafile = true
 
 [[files]]
+file = "mods/familiarslib.pw.toml"
+hash = "b8537d87cc3a8a48c091914f85379a586698b765f9bbe61b1ffa7dbbc9c7a0b4"
+metafile = true
+
+[[files]]
 file = "mods/farmers-cutting-oh-the-biomes-weve-gone.pw.toml"
 hash = "44030876800c6a4cb0be4f78a906db0c230dea8f60007afbbd67262f194e0751"
 metafile = true
