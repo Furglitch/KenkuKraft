@@ -1,13 +1,13 @@
 name = "Forcemaster (More RPG Classes)"
-filename = "forcemaster-class-mod-2.4.6-1.21.jar"
+filename = "forcemaster-class-mod-2.4.11-1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c9d96881c4c404b6a5257e05e1d34ea23aefab68"
+hash = "1fe93cf866f03ed2171ee603680ace6dd2eda1bb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6626923
+file-id = 6836931
 project-id = 992388

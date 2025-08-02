@@ -1,13 +1,13 @@
 name = "L_Ender 's Cataclysm"
-filename = "L_Ender's Cataclysm 1.21.1-3.10.jar"
+filename = "L_Ender's Cataclysm 1.21.1-3.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fc746ced04185b4c67fa2fad51f7455e5928f43c"
+hash = "8bbdcb45e3136bc598933f64bd9487db09a2ae08"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6819107
+file-id = 6832551
 project-id = 551586

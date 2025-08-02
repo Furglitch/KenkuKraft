@@ -1,13 +1,13 @@
 name = "Witcher (More RPG Classes)"
-filename = "witcher-class-mod-2.4.8-1.21.jar"
+filename = "witcher-class-mod-2.4.11-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "be7a258bacb422ab9569128a0a5359a352af970c"
+hash = "e13f51d9ff471ef2ecf189cb031ce079b43d3242"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6543641
+file-id = 6812207
 project-id = 992290

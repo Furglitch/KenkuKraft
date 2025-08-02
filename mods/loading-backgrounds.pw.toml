@@ -1,6 +1,6 @@
 name = "Loading Backgrounds"
 filename = "loadingbackgrounds-neoforge-1.21-1.6.0.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

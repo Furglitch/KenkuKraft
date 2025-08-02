@@ -1,13 +1,13 @@
 name = "Archers Expansion (More RPG Classes)"
-filename = "archers-expansion-1.3.7-1.21.1.jar"
+filename = "archers-expansion-1.3.9-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "895635d7af2d53a62d7c333d6a1053748200011c"
+hash = "ffbeca9a3eca8f9b0ab02d008fdf21c5a85d4a71"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6536200
+file-id = 6802381
 project-id = 1109024

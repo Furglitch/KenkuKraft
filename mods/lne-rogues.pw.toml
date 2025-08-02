@@ -1,13 +1,13 @@
 name = "LNE Rogues Add-On"
-filename = "lne_rogues-1.0.1-1.21.1.jar"
+filename = "lne_rogues-1.0.2-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "73ae55d70672739fcf3f8a98051151aa572aa2e9"
+hash = "74e756456ae3cec61a5bad6fe5e614b78504c984"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6616843
+file-id = 6806081
 project-id = 1179583
