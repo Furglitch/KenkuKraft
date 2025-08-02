@@ -3138,6 +3138,11 @@ hash = "308e0d918ea91f029cf72db5a13b415e1bcdca462c1a021a5f27d77c4fee253c"
 metafile = true
 
 [[files]]
+file = "mods/sinytra1343.pw.toml"
+hash = "3fb53c113682ebe9790d1886684fbe57675e857fa01301183fb147ede68b6d53"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "ddcb079fe09115d21c7663a3944a79303f8802df635c9f8311bbd8f331ba232c"
 metafile = true
