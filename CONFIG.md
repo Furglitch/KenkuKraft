@@ -80,7 +80,8 @@
 - [X] **Counter (Day & Death)**
     - Changes:
         - Set Death Counter to 'Only Self'
-        - Set Death Counter Self Y to 0.00625
+        - Set Day Counter Y to 0.00625
+        - Set Death Counter Self Y to 0.04
         - Disable Coordinates Overlay
         - Disable Time Overlay
         - Disable Emojis
@@ -128,7 +129,7 @@
         - Replace default third-person
 - [X] **Stylish Effects**
     - Changes:
-        - X Offset: 104
+        - X Offset: 80
         - Y Offset: 6
         - Scale: 3
  - [X] **Trash Slot**

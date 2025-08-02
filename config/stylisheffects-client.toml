@@ -116,7 +116,7 @@
 		#Default Value: 3
 		# Default: 3
 		# Range: > 0
-		offset_x = 104
+		offset_x = 80
 		#Effect renderer to be used.
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Default Value: gui_compact_widget
