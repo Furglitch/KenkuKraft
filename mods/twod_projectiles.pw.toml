@@ -1,0 +1,13 @@
+name = "2D Projectiles ➵"
+filename = "twod_projectiles-neoforge-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/W2K5WNdH/versions/mmZjBrx6/twod_projectiles-neoforge-1.1.0.jar"
+hash-format = "sha512"
+hash = "8258c502f8c39e9e8f6262bfdfe36fde376eb3326d9c6cc2a52fb461b0b8c0e1452f79d48986020d8b8b451802a64b38ad20e83064ff7968f43fbcaa180ad17b"
+
+[update]
+[update.modrinth]
+mod-id = "W2K5WNdH"
+version = "mmZjBrx6"

@@ -1,0 +1,13 @@
+name = "Koopa's Critters"
+filename = "Koopa'sCritters_1.21.1Neoforge_V0.0.5.1BETA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78fa3281556051e7927e1743ff382e7d4b80274a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6824152
+project-id = 395061

@@ -1,0 +1,13 @@
+name = "Dynamic Villager Trades"
+filename = "dynamicvillagertrades-fabric-1.4.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/baBYPjgq/versions/WHmcf40h/dynamicvillagertrades-fabric-1.4.0.jar"
+hash-format = "sha512"
+hash = "4c341cd35012e911a361165693b205bbbd585370c50b3f59472923cefd840b41d31ad1372bd47426c1c22c6c588c857cecdef6a4329f623fef587f502e8ce200"
+
+[update]
+[update.modrinth]
+mod-id = "baBYPjgq"
+version = "WHmcf40h"
